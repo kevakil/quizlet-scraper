@@ -1,0 +1,2139 @@
+BI325: Chapter 2, BI 325: Chapter 3, BI325: Chapter 4, BI325: Chapter 5, BI325: Chapter 6, BI325: Chapter 7, BI325: Chapter 8, BI325: Chapter 9 Flashcards | Quizlet
+
+
+
+
+NEURONS
+	sense changes in the environment, communicate those changes to other neurons, and command the body's responses to these sensations
+
+Neurohistology
+	-microscopic study of the structure of brain tissues
+	-brain tissue must be hardened using formaldehyde
+	-stains are used to selectively color some parts of brain tissue to differentiate the cells
+
+Nissl Stain
+	-German neurologist found dyes that color the nuclei of cels and the clumps of material surrounding the nuclei
+	-distinguishes between neurons and glia
+	-helps study the arrangement of neurons in the brain (cytoarchitecture)
+	-doesn't stain the entire cell
+
+Cytoarchitecture
+	the arrangement of neurons in different parts of the brain
+
+Golgi Stain
+	-Italian histologist discovered a way of soaking brain tissue in silver chromate solution
+	-makes a small % of neurons dark in their entirety
+
+Perikaryon
+	cell body
+
+Neurites
+	axons and dendrites
+
+Neuron Doctrine
+	-Spanish histologist (Cajal) argues that neuritis of different neurons communicate through contact, not through continuity
+	-not proven until invention of electron microscope
+
+Soma
+	-about 20 micrometers in diameter
+	-cytosol = fluid inside, K and Na rich
+	-has the same organelles as all other animal cells
+	-cytoplasm = all of the organelles inside, except the nucleus
+
+Neuron Nucleus
+	-about 5-10 microns in diameter
+	-contains chromosomes and DNA
+
+Genome
+	length of DNA that comprises the genetic information in chromosomes
+
+Knockout Mice
+	-mice in which one gene has been deleted or "knocked out"
+	-used to study the progression of disease
+
+Transgenic Mice
+	mice in which genes have been introduced and overexpressed (these genes are called transgenes)
+
+Knock-in Mice
+	mice in which native genes have been replaced with modified transgenes
+
+Rough ER
+	-ribosomes are attached to the surface
+	-more of this organelle in non-neuronal cells
+	-other ribosomes are free floating in the cytoplasm
+
+Polyribosome
+	a single mRNA molecule with associated ribosomes translating it at once to make one protein
+
+Smooth ER
+	-where proteins are folded
+	-regulate the internal concentrations of substances, like calcium
+
+Golgi Apparatus
+	-post translational chemical processing of proteins occurs here
+	-sorts proteins that are going to different parts of the neuron
+
+Mitochondrion
+	-very abundant in the soma
+	-site of cellular respiration
+
+Neuronal Membrane
+	-prevents certain substances from entering the cell
+	-studded with proteins
+
+Cytoskeleton
+	-gives a neuron its shape
+	-includes microtubules, microfilaments, and neurofilaments
+	-in constant motion, which means neurons are also moving
+
+Microtubules
+	-20 nm diameter (largest in the cytoskeleton)
+	-looks like a thick-walled hallowed pipe
+	-consists of many strains of the protein tubulin
+	-each protein in a strand joins by process of polymerization
+	-MAPS (microtubule-associated proteins) help regulate the assembly of microtubules
+	-these proteins anchor microtubules to one another
+
+Alzheimer's Disease
+	-caused by a disruption of the cytoskeleton of neurons in the cerebral cortex
+	-causes extreme dementia, hallucinations, distress
+	-dementia caused by tangles of dead or dying neurons in the cortex
+	-the tangles are long fibrous protein filaments called tau
+	-Tau is a protein that normally functions as a bridge between microtubules in axons to ensure that they run parallel to each other
+	-Tau detaches from the microtubules and begins to accumulate in the soma, while the axons whither away
+	-secretion of the protein amyloid is believed to initiate the changes in Tau and form the tangles
+
+Microfilaments
+	-5 nm diameter
+	-found mostly in the dendrites or axon
+	-includes a braid of 2 strands of the protein actin
+	-mostly involved in muscle contraction
+
+Neurofilaments
+	-10 nm diameter
+	-the same as intermediate filaments in other cells of the body
+	-multiple subunits wound together form a very strong rope
+
+Axon
+	-transfer information over long or short distances in nervous system
+	-begins at the axon hillock, which is attached to the soma
+	-has a very little rough ER or ribosomes
+	-has very different proteins on its membrane than the soma
+	-can be a millimeter to over a meter long
+	-branches into axon collaterals that can communicate with different parts of the nervous system
+	-diameter can very greatly, and the thicker the diameter, the faster an impulse travels down an axon
+
+Axon Terminal
+	-also called terminal button
+	-this is where the neuron comes in contact with other neurons or other cells and passes info to them
+	-point of contact between the 2 cells is called the synapse
+	-contains a lot of mitochondria
+
+Terminal Arbor
+	several branches that come off of the axon terminal and synapse with dendrites of another cell
+
+Innervation
+	-when a neuron makes synaptic connection with another cell
+	-the neuron then "innervates" that other cell
+
+Synaptic Vesicles
+	smalle bubbles of membrane in the axon terminal
+
+Synaptic Cleft
+	the space between the presynaptic and postsynaptic terminals
+
+Synaptic Transmission
+	transfer of info between the pre and postsynaptic ends
+
+Neurotransmitter
+	-chemical signal that cross the synaptic cleft
+	-stored and released from synaptic vesicles in the axon terminal
+	-different neurons use different neurotransmitters
+
+Wallerian Degeneration
+	-axons do not contain ribosomes, so proteins must be synthesized in the soma and transported to the axon
+	-therefore, axons cannot sustain themselves if they are separated from the soma
+
+Axoplasmic Transport
+	-the flow of materials from the soma to the axon
+	-interruption of this causes Wallerian Degeneration
+	-very fast process
+	-materials are inside vesicles and they walk down microtubules of the axon with help of protein Kinesin and ATP
+
+Anterograde Transport
+	movement of materials only from the terminal to the soma
+
+Retrograde Transport
+	-movement of material from the axon terminal to the soma
+	-provides soma with information about changes in metabolic needs of the axon terminal
+	-instead of Kinesin, the protein Dynein is used instead
+
+Dendrites
+	"antennae of the neuron"
+	-often is the postsynaptic end of neuronal communication
+	-the membrane contains receptor proteins to detect the neurotransmitters in the cleft
+	-some are covered with dendritic spines, which isolate chemical reactions that are triggered by some types of synaptic activation
+
+Unipolar
+	neuron with a single neurite
+
+Bipolar
+	neuron with 2 neurites
+
+Multipolar
+	neuron with 3 or more neurites (most neurons in body)
+
+Stellate Cells
+	neurons with star-shaped dendrites
+
+Pyramidal Cells
+	neurons with pyramid-shaped dendrites
+
+Spiny Cells
+	-neurons with dendrites that have spines
+	-those without are called aspinous
+
+Primary Sensory Neurons
+	neurons that have neurites in the sensory surfaces of the body, including the skin and the retina of the eye
+
+Motor Neurons
+	have axons that form synapses with the muscles and command movements
+
+Interneurons
+	the majority of neurons in the body, they form connections with only other neurons
+
+Golgi Type I Neurons
+	"projection neurons"
+	-neurons with long axons that extend from one part of the brain to the other
+	-ex: pyramidal cells in cerebral cortex
+
+Golgi Type II Neurons
+	"local circuit neurons"
+	-neurons that have short axons that do not extend beyond the cell body
+	-ex: stellate cells in cerebral cortex
+
+
+
+GLIAL CELLS
+	insulate, support, and nourish neurons
+
+Astrocytes
+	-most numerous glia in the brain
+	-fill most of the spaces between neurons
+	-regulate the chemical content of the extracellular space of a neuron by restricting the spread of neurotransmitters that have been released
+	-proteins in their membranes can remove neurotransmitters from the synaptic cleft
+	-also regulate the concentration of other substances, like potassium, in the extracellular fluid
+
+Myelinating Glia
+	-includes oligodendroglial (CNS) and Schwann cells (PNS)
+	-provide layers of membrane that insulate axons called myelin
+	-speeds up nerve impulses down the axon
+	-oligodendroglial myelinate more than one neuron at a time, while Schwann cells only myelinate 1
+
+Node of Ranvier
+	where there's a gap between myelin sheath on the axon
+
+Ependymal Cells
+	-line fluid-filled ventricles in the brain
+	-direct cell migration during brain development
+
+Microglia
+	-phagocytes that remove debris from dead neurons/glia
+	-involved in the remodeling of synaptic connections
+
+Action Potential
+	-nerve impulse
+	-created by a separation of charge across the membrane
+	-do not diminish over distance; signals with a fixed size and duration
+	-when the inside of the cell is more positive than the outside for less than a second
+
+Excitable Membrane
+	-cells capable of generating and confusing action potentials have this
+	-includes nerve and muscle cells
+
+Resting Membrane Potential
+	-when a neuron is not generating impulses, it is at "rest"
+	-the inside of the membrane has a negative charge compared to the outside
+	-more K+ on the inside and Na+ and Ca2+ on the outside
+	-the "potential" is the difference in charge across the membrane
+
+Cytosol
+	the intracellular fluid
+
+Electrical Potential (Voltage)
+	-force exerted on a charged particle
+	-as the difference in charge between the anode and cathode increases, there will be more flow of the current
+	-symbol "V"
+	-units of volts
+
+Electrical Conductance
+	-relative ability of an electrical charge to migrate from one point to another
+	-represented by symbol "g"
+	-measured in siemens (S)
+	-depends on the number of ions or electrons are able to carry electrical charge and move through space
+
+Electrical Resistance
+	relative inability of an electrical charge to migrate
+	-symbol "R"
+	-units of ohms (looks like a horseshoe)
+	-inverse of conductance
+
+Ohm's Law
+	-relationship between the voltage (V), conductance (g), and the amount of current that will flow (I)
+	
+	I = gV
+	
+	-in other words, current is the product of conductance and voltage
+
+Membrane Potential
+	-voltage across the neuronal membrane at any moment
+	-symbol is Vm
+	-measured by inserting a microelectrode into the cytosol
+
+Microelectrode
+	-thin glass tube
+	-filled with electrically conductive salt solution
+	-connected to a voltmeter to measure the different in electrical potential between the tip of the electrode and the wire placed outside the cell
+	-(extending from the voltmeter is both the electrode extending to the inside of the cell and a short wire that lands somewhere outside of the neuron)
+	-shows us that the inside is more electrically negative than the outside of the membrane
+
+Value of Resting Membrane Potential
+	Vm = -65 millivolts
+
+Equilibrium Potential
+	-the electrical potential difference that exactly balances an ionic concentration gradient
+	-each ion has its own equilibrium potential because its the potential that would occur if the membrane were permeable to only that ion
+
+Capacitance
+	-a property of the membrane that describes how it stores electrical charge
+	-the negative ions inside the membrane and the positive ions outside the membrane tend to be mutually attracted to the membrane because they're attracted to each other
+	-therefore, the net negative charge inside is not evenly distributed in the cytosol, but concentrated at the membrane
+
+Ionic Driving Force
+	the difference between the real membrane potential and the equilibrium membrane potential
+
+The Nernst Equation
+	-a way to calculate the equilibrium potential of an ion
+	-in the picture ln could also be written as 2.303*log
+
+Sodium-Potassium Pump
+	-enzyme that breaks down ATP in the presence of internal Na+
+	-exchanges internal Na+ for external K+
+	-ensures that K+ is more concentrated inside the neuron and Na+ is more concentrated outside
+	-this requires energy because it's going against the concentration gradients of K+ and Na+
+
+Calcium Pump
+	-enzyme that actively transports Ca2+ out of the neuron
+	-intracellular calcium-binding proteins and organelles like the mitochondria and ER sequester Ca2+ to help reduce the concentration in the cytosol as well
+
+K+ Equilibrium Concentration
+	-80 mV
+
+Na+ Equilibrium Concentration
+	62 mV
+
+Ca2+ Equilibrium Concentration
+	123 mV
+
+Cl- Equilibrium Concentration
+	-65 mV
+
+Goldman Equation
+	way of calculating the resting membrane potential while taking into consideration that the membrane is permeable to more than 1 ion at a time
+
+Potassium Channel
+	-protein with 4 subunits that forms a pore in the membrane
+	-selective for only K+ ions
+	-contains a pore loop, which contributes to the selectivity filter of the channel
+	-at rest, a neuron is mostly permeable to K+ because of these passive channels, which is why the resting potential is close to the equilibrium potential of K+
+
+Depolarization
+	making the membrane potential less negative
+
+Hyperpolarization
+	making the membrane potential more negative
+
+Blood-Brain Barrier
+	walls of brain capillaries that limit the movement of K+ (and other blood borne substances) into the extracellular fluid of the brain
+
+
+
+STAGES OF ACTION POTENTIAL
+	(lasts about 2 milliseconds from beginning to end)
+
+1: Rising Phase
+	-rapid depolarization of the membrane
+	-continues until the Vm reaches a peak value of 40 mV
+
+2: Overshoot
+	when the inside of the neuron is positively charged with respect to the outside
+
+3: Falling Phase
+	rapid repolarization of the inside of the membrane
+
+4: Undershoot / After-Hyperpolarization
+	when the inside of the membrane repolarizes so much that it becomes more negative than the resting potential
+
+5: Restoration
+	the gradual restoration of the resting potential
+
+
+
+GENERATING THE ACTION POTENTIAL
+	...
+
+Step 1
+	-at rest, K+ leak channels open so K+ leaves the cell
+	-sodium-potassium pump maintains K+ concentration inside and Na+ concentration outside
+	-thumbtack enters the skin (or neurotransmitters from another cell are released, etc)
+
+Step 2
+	membrane of the nerve fibers in the skin is stretched
+
+Step 3
+	Rising Phase
+	-Na+ channels open and Na+ flows into the cell because there's more Na+ outside than inside
+	-the membrane depolarizes
+
+Step 4
+	Overshoot
+	-if the depolarization reaches a critical level (called the threshold), then an action potential will definitely happen
+	-voltage-gated Na+ channels open at threshold and gNa increases briefly
+	-the inside of the neuron becomes positive relative to the outside
+
+Step 5
+	Falling Phase
+	-voltage-gated sodium channels close (inactivate) after 1 millisecond of being open
+	-they cannot open again until the membrane potential reaches the threshold of -40 mV
+	-voltage-gated K+ channels open 1 millisecond after depolarization
+	-gK increases and K+ ions flow out of the neuron
+
+Step 6
+	Undershoot
+	-K+ flows out of the neuron until the inside becomes more negative than resting potential
+	-voltage-gated K+ channels close and the neuron reaches normal resting membrane potential again
+
+Sodium-Potassium Pump
+	-exchanges internal Na+ for external K+
+	-ensure that K+ is more concentrated inside and Na+ is more concentrated outside to maintain the resting potential
+	-operates with energy derived from ATP hydrolysis
+	-moves ions against their concentration gradients
+
+Increase the magnitude of the depolarizing current...
+	increase the frequency of action potentials
+
+Absolute Refractory Period
+	once an AP is initiated, it is impossible to initiate another for about 1 millisecond
+
+Relative Refractory Period
+	it can also be hard to initiate another AP for a few milliseconds after the end of the absolute refractory period
+
+Optogenetics
+	-a way to artificially initiate an AP
+	-involves introducing foreign genes into a neuron that express membrane ion channels that open in response to light
+
+Channelrhodopsin-2 (ChR2)
+	-introducing ChR2 gene into mammalian cells causes the expression of a light-sensitive Ca2+ and Na+ channel
+	-the channel opens in response to blue light
+	-causes depolarization beyond the threshold
+
+Voltage Clamp
+	a way of measuring the change in conductances of Na+ and K+ during an AP
+
+Voltage Gated Sodium Channel Structure
+	-a single long polypeptide with domains I-IV
+	-each domains consists of 6 transmembrane alpha helices S1-S6
+	-the domains clump together to form a pore between them
+	-the pore opens in response to membrane depolarization to the threshold
+	-S4 alpha helix contains a voltage sensor, which means that positively charged amino acid residues are regularly spaced along its coils
+	-S4 will twist in response to depolarization, opening the gate for Na+
+
+Voltage-Gated Potassium Channel Structure
+	-open when the membrane is depolarized to diminish further depolarization
+	-4 separate polypeptides subunits that come together to form a pore
+	-when membrane is depolarized, the subunits twist into a shape that allows K+ to pass through membrane
+
+Patch Clamp
+	-a method used to study ionic currents passing though individual ion channels
+	-seal the tip of an electrode to a small patch of membrane
+	-the patch is torn from the neuron and its ionic currents can be measured at any membrane potential the experimenter chooses
+
+Infant Epileptic Seizures
+	-occur in early childhood, 3 mos - 5 years
+	-known as a channelopathy because its caused by alterations in the structure of ion channels
+	-the Na+ channel inactivation is slowed, prolonging the AP
+
+Tetrodotoxin (TTX)
+	-binds to a site outside of the gated Na+ channel
+	-clogs Na+ permeable pore
+	-fatal if ingested because it blocks all sodium dependent APs
+	-found in the ovaries of pufferfish
+
+Saxitoxin
+	-found in clams, mussels, and other shellfish
+	-also blocks Na+ channels and is fatal
+
+Batrachotoxin
+	-found in the skin of the Colombian frog
+	-causes Na+ channels to open at more negative potentials and stay open much longer
+
+Orthodromic Conduction
+	conduction of the AP from soma to axon terminal
+
+Antidromic Conduction
+	-conduction of AP from the axon terminal to the soma
+	-elicited experimentally
+
+Width of Axon
+	-speed depends on how far the depolarization ahead of the AP spreads
+	-therefore, a wider axon will have a faster AP
+	-an AP lasts about 2 milliseconds from start to end
+
+Local Anesthetics
+	-drugs that temporarily block APs in axons
+	-Lidocaine is most commonly used
+	-it binds to voltage-gated sodium channels at the S6 alpha helix in domain IV
+
+Myelin Sheath
+	-many layers of membrane
+	-provided by Schwann Cells in the peripheral nervous system and oligodendroglia in the central nervous system
+	-increases the speed of AP conduction down an axon
+
+Nodes of Ranvier
+	-spaces between the section of myelin sheath on the axon
+	-these spaces contain the voltage-gated sodium channels
+
+Saltatory Conduction
+	the way in which an AP skips from node to node
+
+Multiple Sclerosis
+	-MC patients have weakness, lack of coordination, impaired vision and speech
+	-attacks the sheath bundles of axon in the brain, spinal cord, and optic nerves
+	-lesions develop around the bundles of axons
+	-causes slow response times
+
+Spike-Initiation Zone
+	-the axon hillock, the base of the soma where APs are generated
+	-sometimes it is also the sensory nerve ending of a sensory neuron
+
+
+
+ELECTRICAL SYNAPSES
+	...
+
+Electrical Synapses
+	-allow direct transfer of ionic current from one cell to the next
+	-occur at gap junction
+	-electrical current in the form of ions passes from one cell to the other
+	-provides a very quick and reliable response time
+	-also promotes highly synchronized activity
+
+Gap Junction
+	-where 2 cells are only separated by 3nm
+	-the gap is spanned by proteins called connexins
+	-6 subunits of connexins forms a channel called a connexon
+	-one connexon from one cell and one connexon from the other cell meet to form the gap junction channel
+	-ions can pass through the channels bidirectionally
+
+Electrically Coupled
+	2 cells that are communicating through an electrical synapse
+
+Postsynaptic Potential (PSP)
+	-when cells are electrically coupled, the AP in the presynaptic cell causes ionic flow across the gap junction to the other neuron
+	-the flow causes a postsynaptic potential in the postsynaptic cell
+
+
+
+CHEMICAL SYNAPSES
+	...
+
+Synaptic Cleft
+	-the presynaptic and postsynaptic cells are separated by this cleft that is 20-50 nm wide
+	-its filled with a matrix of fibrous extracellular protein that acts as a glue
+
+Secretory Granules
+	large vesicles in the axon terminal
+
+Membrane Differentiations
+	dense accumulations of protein adjacent to and within the membranes on either side of the synaptic cleft
+
+Active Zones
+	-the proteins from which the neurotransmitters are released from the presynaptic cell
+	-synaptic vesicles are clustered in the cytoplasm next to the active zones
+
+Postsynaptic Density
+	-the protein accumulated in and under the postsynaptic membrane
+	-contains neurotransmitter receptors
+
+
+
+CNS CHEMICAL SYNAPSES
+	...
+
+Axodendritic
+	a synapse in which the postsynaptic membrane is on a dendrite
+
+Axosomatic
+	a synapse in which the postsynaptic membrane is on the soma
+
+Axoaxonic
+	a synapse in which the postsynaptic membrane is on the axon
+
+Axospinous
+	when a presynaptic axon contacts a postsynaptic dendritic spine
+
+Dendrodendritic
+	synapses between 2 dendrites
+
+Assymetrical Synapses // Gray's Type I Synapses
+	-synapses in which the membrane differentiation is thicker on the postsynaptic side
+	-usually excitatory
+
+Symmetrical Synapses // Gray's Type II Synapses
+	-synapse with membrane differentiations of similar thickness
+	-usually inhibitory
+
+
+
+PNS CHEMICAL SYNAPSES
+	...
+
+Neuromuscular Junction
+	synapses between the axons of motor neurons of the spinal cord and skeletal muscle
+
+Motor Endplate
+	-another name for the postsynaptic membrane involved in a neuromuscular junction
+	-contains folds that are aligned with the active zones of the presynaptic membrane
+	-the folds are packed with neurotransmitter receptors
+	-ensures that a lot of neurotransmitter molecules are released onto a surface containing many receptors
+	-fast and reliable signaling
+
+
+
+NEUROTRANSMITTERS
+	...
+
+Amino Acids
+	-stored and released from synaptic vesicles
+	major:
+	gamma-aminobutyric
+	glutamate
+	glycine
+
+Amines
+	-stored and released from synaptic vesicles
+	major:
+	acetylcholine
+	dopamine
+	epinephrine
+	histamine
+	norepinephrine
+	serotonin
+
+Peptides
+	-large molecules, stored and released from secretory granules
+	major:
+	cholecystokinin
+	dynorphin
+	enkephalins
+	neuropeptide
+	somatostatin
+	substance P
+	thyrotropin-releasing hormone
+	vasoactive intestinal polypeptide
+
+Common CNS Neurotransmitters
+	glutamate (Glu)
+	gamma-aminobutyric acid (GABA)
+	glycine (Gly)
+
+Neuromuscular Junction Neurotransmitter
+	acetylcholine (ACh)
+
+Transporters
+	-proteins embedded in the vesicle membrane
+	-load the amino acid and amine neurotransmitters into synaptic vesicles
+
+Packing Secretory Granules
+	-long peptides are synthesized in the ER and split in the Golgi
+	-one of the segments will become the neurotransmitter
+	-secretory granules containing the segment bud off from the Golgi and are carried to the axon terminal
+
+
+
+STEPS OF NEUROTRANSMITTER RELEASE
+	...
+
+Step 1
+	the AP arrives in the axon terminal and depolarized the terminal membrane
+
+Step 2
+	voltage-gated calcium channels in the active zone open
+
+Step 3
+	internal concentrations of Ca2+ are low, so Ca2+ ions flow into the neuron
+
+Step 4
+	the elevation in Ca2+ signals that the neurotransmitters should be released
+
+Step 5
+	the vesicles release the neurotransmitters with exocytosis (meaning it fuses with the presynaptic membrane and the contents spill out into the cleft)
+
+
+
+NEUROTRANSMITTER RECEPTORS
+	...
+
+Transmitter-Gated Ion Channels
+	-protein with 4 or 5 subunits that come together to form a pore
+	-when the neurotransmitter binds to specific sites on the extracellular region of the channel, it induces conformational change
+	-the subunits twist and the pore opens
+	-fast, short-lasting synaptic transmission
+
+Excitatory Postsynaptic Potential (EPSP)
+	-when a neurotransmitter causes the depolarization of the postsynaptic membrane
+	-this generally happens if the transmitter-gated ion channel is also permeable to Na+, which will flow into the cell and cause the depolarization
+
+Excitatory Receptors
+	ACh-gated and glutamate-gated ion channels
+
+Inhibitory Postsynaptic Potential (IPSP)
+	-when a neurotransmitter causes the hyperpolarization of the postsynaptic membrane
+	-it generally happens if the transmitter-gated ion channel is also permeable to Cl-
+
+Inhibitory Receptors
+	glycine-gated or GABA-gated ion channels
+
+G-Protein-Coupled Receptors
+	-slower, longer lasting synaptic transmission
+	-metabotropic receptor
+	-involves various steps
+
+
+
+STEPS FOR G-PROTEIN-COUPLED RECEPTORS
+	...
+
+Step 1
+	neurotransmitter molecules bind to receptor proteins embedded in the postsynaptic membrane
+
+Step 2
+	the receptor proteins activate G-proteins, which move along the inside of the postsynaptic cell
+
+Step 3
+	the activated G-proteins activate effector proteins
+
+Step 4a
+	the effector protein could be a G-protein-gated ion channel
+
+Step 4b
+	the effector protein could be an enzyme that synthesizes second messengers
+
+Step 5
+	the second messengers activate additional enzymes that regulate ion channel function and alter cell metabolism
+
+Autoreceptors
+	-receptors on the membrane of the presynaptic cell
+	-usually G-protein-coupled receptors
+	-they're usually activated by the neurotransmitter that was released to the postsynaptic cell
+	-usually, their activation inhibits neurotransmitter production and release to control the amount of neurotransmitters in the cleft
+
+Neurotransmitter Recovery
+	-the neurotransmitters need to be cleared from the cleft so another round of synaptic transmission can occur
+	-sometimes, the neurotransmitters will diffuse through the extracellular fluid and away from the cleft
+	-otherwise, transporter proteins can facilitate the reuptake of the neurotransmitters into the presynaptic cell
+	-the neurotransmitters are then reloaded into vesicles or broken down for recycling
+
+Neurotransmitter Degradation
+	-another way to remove neurotransmitters from the cleft
+	-an enzyme cleaves the ACh molecules and renders them inactive
+	-this is how ACh is removed from the cleft of the neuromuscular junction
+	-too much exposure of the receptors to ACh leads to desensitization and the inability for neuromuscular transmission to occur
+
+Neuropharmacology
+	the study go the effects of drugs on nervous system tissue
+
+Inhibitors
+	drugs that inhibit the normal function of proteins involved in synaptic transmission
+
+Receptor Antagonists
+	-inhibitors of neurotransmitter receptors
+	-bind to the receptors and block the normal action of the neurotransmitter
+
+Receptor Agonists
+	drugs that bind to receptors and mimic the actions of the real neurotransmitter
+
+Synaptic Integration
+	process by which multiple synaptic potentials combine within one postsynaptic neuron
+
+Miniature Postsynaptic Potential (Mini)
+	the response of the postsynaptic cell to neurotransmitters released without presynaptic stimulation (a very small amount is released spontaneously)
+
+Quantal Analysis
+	-a method of comparing the amplitudes of minis
+	-can be used to determine how many vesicles release neurotransmitter during normal synaptic transmission
+
+EPSP Summation
+	synaptic integration in the CNS
+
+Spatial Summation
+	the adding together of EPSPs generated simultaneously at many different synapses on a dendrite
+
+Temporal Summation
+	adding together of EPSPs generated at the same synapse if they occur within a few milliseconds of each other
+
+Shunting Inhibition
+	-a type of inhibition
+	-when synaptic transmission prevents the current from flowing through the soma to the axon hillock
+	-Cl- ions flow into the cell and the membrane potential approaches ECl-, which is the resting potential (-65 mV)
+
+Modulation
+	-sometimes synapses contain G-protein coupled neurotransmitter receptors that are not associated with an ion channel
+	-these receptors do not directly initiate EPSPs or IPSPs
+	-they modify the effectiveness of EPSPs
+	-ex: norepinephrine beta receptor
+
+
+
+NOREPINEPHRINE BETA RECEPTOR STEPS
+	...
+
+Step 1
+	when norepinephrine binds to the beta receptor, it activates a G-protein, which activates enzyme adenylyl cyclase
+
+Step 2
+	Adenylyl cyclase converts ATP into cyclic adenosine monophosphate (cAMP), a second messenger
+
+Step 3
+	cAMP stimulates another enzyme called protein kinase
+
+Step 4
+	-protein kinase catalyzes phosphorylation of a potassium channel, causing it to close
+	-this makes the neuron more excitable because the "leaks" in the dendrite and increases the likelihood that the EPSP will reach the axon
+
+
+
+NEUROTRANSMITTER CLASSIFYING
+	...
+
+Major Types of Neurotransmitters
+	1. amines
+	2. amino acids
+	3. peptides
+
+Qualifications for a Neurotransmitter
+	1. must be synthesized and stored in presynaptic neuron
+	2. must be released by the presynaptic axon terminal upon stimulation
+	3. must produce a response in the postsynaptic cell that mimics the response produced by the release of neurotransmitter
+
+Immunoctyochemistry
+	-method to anatomically localize particular molecules (neurotransmitter candidates) to particular cells
+	-the neurotransmitter is injected under the skin/into the blood of an animal to stimulate an immune response
+	-blood is drawn and the antibodies are isolated
+	-the antibodies are tagged with a visible marker and applied to brain tissue
+	-they will color only the cells that contain the neurotransmitter
+
+In-Situ Hybridization
+	-a way of localizing specific mRNA strands for proteins
+	-a probe (complementary mRNA strand) is synthesized in a lab
+	-this probe will bind with its complementary mRNA strand in the neuron (called hybridization)
+	-the probe is labeled and applied to brain tissue
+	-the probe hybridizes with any complementary strands and all probes that have not stuck are washed away
+	-neurons containing the labeled probe are looked for
+
+Microiontophoresis
+	-analyzing the affects the release of the molecule on a postsynaptic cell (if it behaves like a neurotransmitter, then it can be classified as one)
+	-neurotransmitter candidates are dissolved in solutions so they acquire an electrical charge
+	-the solution of the candidate is pipetted next to the postsynaptic membrane of the neuron
+	-a microelectrode in the postsynaptic neuron measures the effects of the transmitter on the membrane potential
+
+
+
+RECEPTOR SUBTYPES
+	...
+
+Receptor Subtype
+	-only one type of neurotransmitter binds to a receptor
+	-a neurotransmitter can bind to several receptors
+	-each receptor it binds to is a receptor subtype
+	-each receptor is comprised of polypeptide subunits, and there are at least 6 different polypeptides that can be used for each of these subunits
+	-this means that there are many subtypes of the subtypes that have been identified (keep in mind that not every combo of polypeptides forms a functioning receptor)
+
+Neuropharmocological Analysis
+	-studying the effects of drugs on the response of the postsynaptic cell
+	-this determines the different receptor subtypes for each neurotransmitter
+
+Opiates
+	-class of drugs derived from opium poppy
+	-includes heroine and morphine
+	-found that these opiates would bind to the neurotransmitter receptors and act as agonists
+	-these are not neurotransmitters, however, those were discovered to be enkephalins (they bind to the same receptors)
+
+Opioids
+	-opiate-like chemicals that are both natural and synthetic
+	-effects include pain relief, euphoria, depressed breathing, etc
+
+Ligands
+	-molecules that bind to specific sites on a receptor
+	-can be either antagonists, agonists, or neurotransmitters
+
+Ligand-Binding Method
+	-using radioactively and non radioactively labeled ligands to study receptors
+	-these ligands have helped isolate neurotransmitter receptors and determine their chemical structure
+
+Dale's Principle
+	-a neuron only has one neurotransmitter
+	-this is true of most neurons, except those containing peptide neurotransmitters
+	-those neurons release a peptide and then either an amine or amino acid
+
+Co-transmitters
+	when two or more neurotransmitters are released from the same terminal
+
+
+
+TYPES OF NEURONS
+	...
+
+1. Cholinergic Neurons
+	-includes all motor neurons in spinal cord and brain stem
+	-synthesize and release acetylcholine (ACh) as the neurotransmitter and an ACh degradative enzyme
+	-neuromuscular junction
+	-all uniquely contain enzyme choline acetyltransferase (ChAT), which can also be used to identify these neurons
+
+Acetylcholine Synthesis
+	-enzyme called choline acetyltransferase (ChAT) synthesizes ACh in the axon terminal
+	-ChAT transfers an acetyl group to acetyl CoA to choline
+	-choline is found in the extracellular fluid in low concentrations
+	-transport of choline into the neuron = rate limiting step because the concentration of choline determines how much acetylcholine is made
+
+AChE
+	-acetylcholinesterase, an enzyme synthesized by cholinergic neurons
+	-secreted into cleft
+	-degrades ACh into choline and acetic acid
+	-the choline is taken up by the presynaptic cell for more ACh synthesis
+
+2. Catecholaminergic Neurons
+	-found in the region of the nervous system involved in regulation of movement, mood, attention, and visceral function
+	-synthesize and release catecholamine neurotransmitters including dopamine, norepinephrine, and epinephrine (adrenaline)
+	-all contain enzyme tyrosine hydroxylase (TH)
+
+Dopamine Synthesis
+	-enzyme tyrosine hydroxlase (TH) catalyzes the synthesis
+	-tyrosine is converted into dopa
+	-TH activity is the rate limiting step
+	-enzyme dopa decarboxylase converts Dopa into the neurotransmitter dopamine
+
+Parkinson's Disease
+	-when dopaminergic neurons in the brain slowly degenerate
+	-patients are given dopa, which leads to an increase dopamine synthesis in surviving neurons
+
+Norepinephrine Synthesis
+	-these neurons also contain TH, enzyme dopa decarboxylase, and enzyme dopamine beta-hydroxylase
+	-dopamine beta-hydroxylase converts the dopamine that is synthesized into norepinephrine once it is loaded into the synaptic vesicles
+
+Epinephrine (Adrenaline) Synthesis
+	-enzyme phentolamine N-methyltransferase (PNMT) converts norepinephrine into to epinephrine
+	-the norepinephrine must first be released from the synaptic vesicles to be converted in the cytosol
+	-it is transported to the vesicles again for release
+	-epinephrine also acts as a hormone when it is released by the adrenal gland into the bloodstream
+
+Catecholamine Reuptake
+	-there is no enzyme that can quickly degrade these neurotransmitters when the accumulate in the cleft
+	-Na+-dependent transporters take the neurotransmitters back into the presynaptic cell
+	-drugs like amphetamine and cocaine block the reuptake and prolong the actions of the neurotransmitters
+	-the neurotransmitters can be reloaded into the synaptic vesicles for reuse or are destroyed by enzyme monoamine oxidase (MAO)
+
+3. Serotonergic Neurons
+	-in regions of the brain that regulate mood, emotional behavior, and sleep
+	-contain the neurotransmitter serotonin
+
+Serotonin (5-HT) Synthesis
+	-tryptophan is converted into 5-hyroxytryptophan (5-HTP) by enzyme tryptophan hydroxylase
+	-5-HTP is converted to 5-HT (serotonin) by enzyme 5-HTP decarboxylase
+
+Serotonin Reuptake
+	-a transporter takes the serotonin back into the presynaptic cell
+	-antidepressant and antianxiety drugs inhibit serotonin reuptake
+	-the neurotransmitter can be recycled and reloaded into vesicles or degraded by MAO
+
+4. Amino Acidergic Neurons
+	-found in most CNS synapses
+	-use neurotransmitters glutamate, glycine, and GABA
+
+Glutamate and Glycine Synthesis
+	-synthesized from glucose and other precursors in all cells (they are amino acids)
+	-these neurons just make more of these 2 amino acids
+	-the transporter proteins also fill synaptic vesicles in neurons containing these neurotransmitters until the concentration is 50 mM
+
+GABA Synthesis
+	-synthesized in only neurons that use it as a neurotransmitter
+	-enzyme glutamic acid decarboxylase (GAD) converts glutamate into GABA
+	-GABAergic neurons are a source of synaptic inhibition
+
+Amino Acid and GABA Reuptake
+	-presynaptic terminals and glia reuptake these neurotransmitters when they accumulate in the cleft
+	-Na+-dependent transporters do the work
+	-GABA is metabolized by enzyme GABA transaminase in the presynaptic cell or glial cell
+
+
+
+OTHER (LESS COMMON) NEUROTRANSMITTERS
+	...
+
+ATP Neurotransmitter
+	-often packaged in vesicles with other neurotransmitters
+	-a cotransmitter with GABA, glutamate, ACh, dopamine, and peptides
+
+Endocannabinoids
+	-small lipid neurotransmitters
+	-retrograde messengers bc they send messages from the postsynaptic to presynaptic cell
+	-their synthesis is caused by elevated Ca2+ levels in the cell
+	-not packaged in vesicles
+	-diffuse across the membrane and bind selectively to CB1 type cannabinoid receptors
+	-the receptors reduce the opening of presynaptic Ca2+ channels and prevents release of neurotransmitters in a highly active neuron
+
+Nitric Oxide
+	-gaseous
+	-synthesized from aa arginine
+	-regulates blood flow
+	-diffuses across membranes
+
+
+
+TRANSMITTER GATED CHANNELS
+	...
+
+1. Glutamate-Gated Channels
+	includes 3 receptor subtypes: AMPA, NMDA, and kainate
+
+AMPA-Gated Channels
+	-permeable to Na+ and K+
+	-not permeable to Ca2+
+	-when activated, they allow more Na+ to enter than K+ leaves for a net increase in cations within the cell
+	-causes rapid depolarization, mediating excitatory transmission in the CNS
+	-often coexist with NMDA receptors at many brain synapses
+
+NMDA-Gated Channels
+	-causes excitatory responses
+	-allow Na+ and Ca2+ to enter the cell while K+ leaves, but it's voltage dependent
+	-when glutamate binds, the pore opens
+	-however, if the membrane is at resting potential then the channel gets clogged with Mg2+
+	-Mg2+ leaves the pore only when the membrane is depolarized
+
+2. GABA-Gated Channels
+	-GABA mediates most synaptic inhibition in the CNS
+	-channel allows passage of Cl-
+	-the drug classes benzodiazepines and barbiturates have their own binding sites on the channel
+	-when they bind at the same time as GABA, it increases the frequency of Cl- channel-openings, leading to stronger IPSPs
+	-ethanol also increases the IPSPs when it binds at the same time as GABA
+	-each drug can bind only to channels with certain subunits
+	-these drugs are not naturally going to bind to the channel (they are modern drugs that humans use), so scientists have to find the real reason for those binding sites
+
+3. Glycine-Gated Channels
+	-Glycine mediates any other synaptic inhibition that GABA does not
+	-channel allows passage of Cl-
+
+
+
+G-PROTEIN COUPLED RECEPTORS
+	...
+
+G-Protein Receptor Structure
+	-single polypeptide containing 7 alpha helices
+	-2 extracellular loops for the transmitter binding sites
+	-structural variations in these sites determines which neurotransmitters, agonists, or antagonists can bind
+	-2 intracellular loops bind to G-proteins and structural variations there determine which proteins they activate
+
+G-protein
+	-guanosine triphosphate (GTP) binding protein
+	-consists of 3 subunits: alpha, beta, and gamma
+
+
+
+G-PROTEIN ACTIVATION STEPS
+	...
+
+Step 1
+	GDP is bound to the alpha subunit
+
+Step 2
+	when the protein bumps into an activated receptor, its GDP is exchanged for GTP
+
+Step 3
+	-the protein splits into 2 parts: alpha subunit + GTP and the beta-gamma complex
+	-both parts can continue on to activate or inactivate effector proteins
+
+Step 4
+	the alpha subunit is an enzyme that breaks down GTP into GDP
+
+Step 5
+	the alpha subunit and beta-gamme complex come back together
+
+Shortcut Pathway
+	-when a subunit of the G-protein immediately activates an ion channel (the effector)
+	-fastest pathway involving a G-protein
+	-still slower than transmitter-gated channels
+
+Second Messenger Cascades
+	-when the G-protein activates other enzymes, leading to a series of biochemical reactions
+	-even though this provides a complex and slow transmission, it allows for signal amplification (many ion channels can be activated)
+	-also allows signaling to occur over a distance
+	-generate long-lasting chemical changes in cells
+
+Divergence
+	-the ability of one transmitter type to activate more than one subtype of receptor and cause more than one type of postsynaptic response
+	-one transmitter can affect different neurons or different parts of the same neuron in different ways
+
+Convergence
+	-multiple transmitters can each activate their own receptor type
+	-but, they can converge to influence the same effector system
+
+
+
+DIRECTIONAL TERMINOLOGY
+	...
+
+Rostral
+	direction pointing towards the nose
+
+Caudal
+	direction pointing towards the tail
+
+Midline
+	invisible line running down the middle of the nervous system
+
+Medial
+	structures close to the midline
+
+Lateral
+	structures far away from the midline
+
+Ipsilateral
+	structures on the same side of the midline
+
+Contralateral
+	structures on the opposite side of the midline
+
+Midsagittal Plane
+	the plane resulting from cutting the brain into 2 equal-sized right and left sides
+
+Sagittal Plane
+	any plane that is parallel to the midsagittal plane
+
+Horizontal Plane
+	plane parallel to the ground
+
+Coronal Plane
+	plane perpendicular to the ground
+
+
+
+PARTS OF CNS
+	...
+
+Cerebrum
+	-largest part of the brain
+	-basically includes all of what you see on the top side (dorsal)
+	-split into 2 cerebral hemispheres by the sagittal fissure
+	-the right hemisphere controls movements of the left side of the body and vice versa
+
+Cerebellum
+	-structure that lies right below the cerebrum
+	-controls movement
+
+Brain Stem
+	-a stalk that the cerebrum and cerebellum sprout from
+	-relays info from cerebrum to the spinal cord and cerebellum, and vice versa
+	-controls vital functions like breathing, consciousness, and body temperature
+	-most primitive part of the brain, but damage here is fatal
+
+Spinal Cord
+	-attached to the brain stem and encased by the vertebral column
+	-sends info from brain to rest of the body and vice versa
+	-communicates with body via spinal nerves
+	-spinal nerves attach to the spinal cord via either the dorsal or ventral roots
+	-dorsal root contains axons bringing info into the spinal cord
+	-ventral root contains axons bringing info out of the spinal cord
+
+
+
+PARTS OF PNS
+	...
+
+Somatic PNS
+	-all nerves that innervate the skin, joints, and muscles that are under voluntary control
+	-while the cell bodies of some of these nerves (notably the motor neurons in the ventral spinal cord) are in the CNS, their axons fall in the PNS
+
+Dorsal Root Ganglia
+	-somatic sensory axons collect info from the skin, joints, and muscles
+	-they enter the spinal cord through the dorsal roots
+	-their cell bodies lie outside the spinal cord in clusters called the dorsal root ganglia
+	-each spinal nerve has a ganglion
+
+Visceral PNS (Autonomic)
+	-involuntary nervous system
+	-contains neurons that innervate internal organs, blood vessels, and glands
+
+Afferent Neurons
+	sensory neurons bringing info to the CNS
+
+Efferent Neurons
+	neurons bringing info from the CNS to muscles and glands
+
+Cranial Nerves
+	-12 pairs of cranial nerves arise from the brain stem
+	-they innervate mostly just the head
+	-some belong to the CNS and both the somatic and visceral PNS
+
+Meninges
+	the 3 membranes that cover the CNS and protect it from directly touching bone (i.e. the skull and the vertebral column)
+
+Dura Matter
+	-outermost meninges in CNS
+	-tough, leather-like, inelastic bag
+
+Arachnoid Membrane
+	-middle meninges in CNS
+	-resembles a spider web
+
+Subdural Hematoma
+	-when the blood vessels passing between the dura matter and arachnoid membrane rupture
+	-blood collects in between the layers
+	-compresses parts of the CNS and disrupts brain function
+	-a hole is drilled into the skull to drain the blood
+
+Pia Matter
+	-third meninges in CNS
+	-thin membrane that adheres closely to surface of the brain
+	-separated from the arachnoid membrane by cerebrospinal fluid (CSF)
+
+Ventricular System
+	-the brain is hollow and contains canals filled with cerebrospinal fluid (which comprise the ventricular system)
+	-choroid plexus tissue produces CSF
+	-CSF flows through the connected cavities and enters the subarachnoid space through small openings near the brain stem
+	-in the subarachnoid space, CSF is absorbed by blood vessels
+
+Hydrocephalus
+	"water on the brain"
+	-caused by impaired flow of CSF through the ventricular system
+	-leads to swelling of the ventricles (cavities)
+	-babies can be born with this condition, but the skull can expand in response the the fluid and prevent damage
+	-in adults, the skull cannot expand and brain tissue is compressed
+	-impairs brain function and eventually leads to death
+
+
+
+BRAIN IMAGING
+	...
+
+CLARITY Method
+	-allows us to see the brain in 3D without slicing it
+	-the brain is soaked in a solution that replaces light-absorbing lipids with water-soluble gel
+	-this turns the brain transparent
+	-the neurons can be labeled with fluorescent molecules (like GFP) so the cells can be seen inside when illuminated
+
+Computed Tomography (CT Scan)
+	-first noninvasive way of imaging the grey and white matter + position of ventricles in a living brain
+	-involves an X-ray beam
+
+Magnetic Resonance Imaging (MRI)
+	-gives a more detailed map of the brain than a CT scan
+	-does not require X-irradiation
+	-a radio signal passes through the head to add energy to hydrogen atoms (2 poles of a magnet on either side)
+	-the protons will jump from low energy state to high energy state at the right frequency
+	-when the radio signal is off, the hydrogen atoms fall to the low energy state and emit the radio signal of the same frequency
+	-a radio receiver picks up this signal
+
+Diffusion Tensor Imaging (DTI)
+	-an application of MRI
+	-provides images of large bundles of axons in the brain
+	-looks at the position of hydrogen atoms in water molecules at different time intervals
+	-in this way, it measures diffusion of water in the brain
+	-water diffuses more readily alongside axon membrane than across them so you can detect where the axon bundles are located
+
+Positron Emission Tomography (PET Scan)
+	-a way to see changes in regional blood flow and metabolism in the brain
+	-a radioactive solution containing atoms that emit positrons is introduced to the bloodstream
+	-the positrons interact with electrons to produce photons of electromagnetic radiation
+	-detectors locate the positron-emitting atoms
+	-the patient can be asked to move a certain part of the body to see which region of the brain lights up
+
+Functional Magnetic Resonance Imaging (fMRI)
+	another way of seeing the changed in blood flow and metabolism in the brain
+
+Cortex
+	any collection of neurons that forms a thin sheet on the surface of the brain
+
+Nucleus
+	a clearly distinguishable mass of neurons, deep within the brain
+
+Substantia
+	a group of related neurons in the brain that is less distinguishable than a nucleus
+
+Locus
+	small, well-defined group of cells
+
+Ganglion
+	group of neurons in the PNS
+
+Nerve
+	bundle of axons in the PNS
+
+Tract
+	collection of CNSaxons having a common site of origin and common destination
+
+Bundle
+	collection of axons that do not have the same origin or destination
+
+Capsule
+	collection of axons that connect the cerebrum with the brain stem
+
+Commissure
+	collection of axons that connect one side of the brain with the other side
+
+Lemniscus
+	a tract that meanders through the brain like a ribbon
+
+
+
+DEVELOPMENT OF CNS
+	...
+
+Ectoderm
+	the layer of cells in an embryo that gives rise to the nervous system and skin
+
+Neural Plate
+	-the part of the ectoderm that gives rise to the nervous system
+	-at this stage, the brain is only a flat layer of cells
+
+Neural Tube
+	-the neural groove forms in the neural plate, and the sides begin to fold into each other dorsally
+	-the walls form the entire CNS
+	-the failure of this tube to close correctly can be due to folic acid deficiency during pregnancy
+	-3 vesicles form at the rostral end of the tube, and this eventually becomes the brain
+
+Neural Crest
+	-when the folds of the neural tube come together, some ectoderm is pinched off
+	-this tissue lies lateral to the neural tube
+	-all of the PNS is derived from this tissue
+
+Neurulation
+	-the process by which the neural plate becomes the neural tube
+	-occurs about 22 days after conception in humans
+
+
+
+BRAIN ANATOMY
+	...
+
+1. Forebrain
+	-the rostral-most vesicle formed from the neural tube
+	-controls perceptions, conscious awareness, cognition, and voluntary action
+	includes:
+	-2 optic vesicles
+	-2 telencephalic vesicles
+	-diencephalon
+
+Optic Vesicles
+	eventually fold in and become the optic nerves and 2 retinas
+
+Telencephalic Vesicles
+	form the telencephalon, which includes the 2 cerebral hemispheres
+
+
+
+DEVELOPMENT OF THE TELENCEPHALON
+	...
+
+Step 1
+	the telencephalic vesicles grow so that they lie over the diencephalon
+
+Step 2
+	another pair of vesicles sprout off the bottom of the cerebral hemispheres, giving rise to the olfactory bulbs
+
+Step 3
+	the cells of the wall divide and differentiate
+
+Step 4
+	white matter systems develop
+
+Lateral Ventricles
+	fluid-filled spaces within the 2 cerebral hemispheres
+
+Third Ventricle
+	fluid-filled space in the diencephalon
+
+Cerebral Cortex
+	the upper gray matter of the telencephalon
+
+Basal Telencephalon
+	the lower gray matter of the telencephalon
+
+Thalamus
+	-upper gray matter of the diencephalon
+	-the sensory pathways serving vision, hearing, and somatic sensation goes to the thalamus before the cerebral cortex
+	-"gateway" to the cerebral cortex
+	-send axons to the cortex via the internal capsule
+
+Hypothalamus
+	-lower gray matter of the diencephalon
+	-controls the autonomic nervous system
+	-controls things like fight or flight response, heart rate, blood flow, motivation for basic needs, etc.
+
+Cortical White Matter
+	all of the axons that run to and from the neurons in the cerebral cortex
+
+Corpus Callosum
+	axonal bridge that connects the neurons of the 2 hemispheres
+
+2. Midbrain
+	-vesicle that lies behind the forebrain
+	-a conduit for info passing from the spinal cord to forebrain
+	-includes neurons that contribute to sensory systems, control of movement, etc.
+
+Tectum
+	-the top (dorsal) surface of the midbrain
+	-divided into 2 parts, one of which receives input from the eyes and the other receives input from the ears
+
+Tegmentum
+	-the floor the midbrain
+	-includes the red nucleus and substantial nigra (black substance)
+	-involved in control of voluntary movement
+
+Cerebral Aqueduct
+	the CSF-filled space in-between the tectum and tegmentum
+
+3. Hindbrain
+	-the caudal-most vesicle formed from the neural tube
+	-conduit for info passing from forebrain to spinal cord and vice versa
+	-processing of sensory info, control of voluntary movement, and regulation of autonomic nervous system
+
+Cerebellum
+	-structure that lies right below the cerebrum
+	-controls movement
+	-spinal cord inputs provide info about the body's position in space
+
+Pons
+	connects the cerebral cortex to the cerebellum
+
+Medulla Oblongata
+	-receives sensory info for hearing, touch, and taste
+	-where axons cross the midline (the reason why the left side of the brain controls the right side of the body and vice versa)
+
+Fourth Ventricle
+	a CSF-filled tube in the hindbrain
+
+
+
+CEREBRAL CORTEX ANATOMY
+	...
+
+Sulci
+	grooves on the surface of the cerebrum
+
+Gyri
+	bumps on the surface of the cerebrum
+
+Frontal Lobe
+	planning, motivation, reward, attention
+
+Parietal Lobe
+	language processing
+
+Central Sulcus
+	border between frontal and parietal lobes
+
+Temporal Lobe
+	processing sensory input
+
+Occipital Lobe
+	processing visual info
+
+Hippocampus
+	-next to the lateral ventricle
+	-associated with the limbic system, memory, and learning
+
+Olfactory Cortex
+	-associated with smell
+
+Neocortex
+	-found only in mammals
+	-the largest part of the cerebral cortex
+
+Cross Section of Spinal Cord
+	-upper part of gray matter = dorsal horn
+	-lower part of gray matter = ventral horn
+	-gray matter in between = intermediate zone (where the interneurons are)
+	-white matter surrounds the gray matter
+
+
+
+GUSTATION
+	...
+
+The 5 Tastes
+	saltiness, sourness, sweetness, bitterness, and umami (the taste of MSG)
+
+Papillae
+	-small projections scattered on the tongue
+	-shaped like ridges, pimples, or mushrooms
+	-each one contains 1-100s of tastebuds
+
+Tastebud
+	-contains 50-150 taste receptor cells
+	-also contains basal cells and gusty afferent axons
+	-people usually have 2000-5000 buds
+
+Tastebud Threshold
+	-the critical concentrations at which the stimulus will evoke a perception of taste
+	-above the threshold most papillae are sensitive to one type of taste
+	-if concentrations of the same stimuli increase, the papillae will become less sensitive
+
+Taste Receptor Cell
+	-the apical end is the region of membrane that is chemically sensitive
+	-the apical ends have microvilli that extend into the taste pore, an opening exposing the taste cell to the tongue surface
+	-they are not neurons, but form synapses with gustatory afferent axons at the bottom of the bud
+	-most respond exclusively to one specific taste
+
+Basal Cells
+	-the taste cells also make electrical and chemical synapses onto the basal cells
+	-the basal cells then synapse onto sensory axons
+
+Receptor Potential
+	-when a chemical activates a taste receptor cell the membrane potential depolarizes
+	-if the depolarization is large enough, some taste receptor cells will fire actions potentials
+	-voltage gated Ca2+ channels open, and Ca2+ in the cytoplasm initiates the release of neurotransmitters from vesicles
+
+Sour and Salty Neurotransmitter
+	-serotonin
+	-excites the postsynaptic cell
+
+Sweet, Bitter, and Umami Neurotransmitter
+	-ATP
+	-excites the postsynaptic cell
+
+Transduction
+	-when a stimulus causes an electrical response in a sensory receptor
+	-the type of transduction that occurs in the cell determines its relative sensitivity to the different tastes
+
+
+
+SALTINESS TRANSDUCTION
+	...
+
+Step 1
+	when Na+ (the saltiness is largely due to Na+, not the anion it is associated with in the salt) is introduced in small concentrations, the gradient of Na+ across the receptor cell membrane increases
+
+Step 2
+	Na+ diffuses down its concentration gradient and into the cell, causing the membrane to depolarize
+
+Step 3
+	the depolarization causes voltage-gated sodium and calcium channels to open near synaptic vesicles, triggering the release of neurotransmitter
+
+Step 4
+	-the neurotransmitter stimulates the gustatory afferent axon
+	
+	gustatory axon --> brain stem -->medulla--> thalamus --> cerebral cortex
+
+
+
+SOURNESS TRANSDUCTION
+	...
+
+Step 1
+	when H+ (protons are responsible for low pH and sourness) is introduced to the receptor cell, it blocks K+ channels
+
+Step 2
+	when K+ permeability to the membrane decreases, the membrane depolarizes
+
+Step 3
+	the depolarization causes voltage-gated sodium and calcium channels to open near synaptic vesicles, triggering the release of neurotransmitter
+
+Step 4
+	-the neurotransmitter stimulates the gustatory afferent axon
+	
+	gustatory axon --> brain stem -->medulla--> thalamus --> cerebral cortex
+
+
+
+BITTERNESS TRANSDUCTION
+	...
+
+Step 1
+	a tastant binds to a bitter receptor (composed of T2R protein) and activates it G-protein
+
+Step 2
+	the G-protein stimulates enzyme phospholipase C, which increases the production of intracellular messenger inositol triphosphate (IP3)
+
+Step 3
+	IP3 opens an ion channel and allows Na+ to enter, leading to depolarization of the taste cell
+
+Step 4
+	IP3 also triggers the release of Ca2+, which activates a membrane channel that allows ATP to flow out of the cell (there are no vesicles containing the neurotransmitter in these cells)
+
+Step 5
+	-ATP acts a synaptic transmitter and activates receptors on afferent gustatory axons related to bitterness
+	
+	gustatory axon --> brain stem -->medulla--> thalamus --> cerebral cortex
+
+
+
+SWEETNESS TRANSDUCTION
+	...
+
+Step 1
+	a tastant binds to a sweetness receptor (composed of T1R2 and TIR3 proteins) and activates it G-protein
+
+Step 2
+	the G-protein stimulates enzyme phospholipase C, which increases the production of intracellular messenger inositol triphosphate (IP3)
+
+Step 3
+	IP3 opens an ion channel and allows Na+ to enter, leading to depolarization of the taste cell
+
+Step 4
+	IP3 also triggers the release of Ca2+, which activates a membrane channel that allows ATP to flow out of the cell (there are no vesicles containing the neurotransmitter in these cells)
+
+Step 5
+	-ATP acts a synaptic transmitter and activates receptors on afferent gustatory axons related to sweetness
+	
+	gustatory axon --> brain stem -->medulla--> thalamus --> cerebral cortex
+
+
+
+UMAMI TRANSDUCTION
+	...
+
+Step 1
+	a tastant binds to an umami receptor (composed of T1R1 and TIR3 proteins) and activates it G-protein
+
+Step 2
+	the G-protein stimulates enzyme phospholipase C, which increases the production of intracellular messenger inositol triphosphate (IP3)
+
+Step 3
+	IP3 opens an ion channel and allows Na+ to enter, leading to depolarization of the taste cell
+
+Step 4
+	IP3 also triggers the release of Ca2+, which activates a membrane channel that allows ATP to flow out of the cell (there are no vesicles containing the neurotransmitter in these cells)
+
+Step 5
+	-ATP acts a synaptic transmitter and activates receptors on afferent gustatory axons related to umami
+	
+	gustatory axon --> brain stem -->medulla--> thalamus --> cerebral cortex
+
+Gustatory Nucleus
+	-the cranial nerves carry information from the tongue to the medulla
+	-the gustatory nucleus is where all of the taste axons enter the brain stem, bundle together, and synapse
+
+Ventral Posterior Medial Nucleus (VPM)
+	neurons from the gustatory nucleus synapse on small neurons in this region of the thalamus
+
+Primary Gustatory Cortex
+	VPM taste neurons send axons to this region of the cerebral cortex
+
+
+
+OLFACTION
+	...
+
+Pheromones
+	odorant chemicals released from the body that act as singles for reproductive behavior, mark territories, identify individuals, and indicate aggression or submission
+
+Olfactory Epithelium
+	-a small, thin sheet of cells on the top of the nasal cavity
+	-this is the part of the nose that we actually smell with
+	-contains 3 types of cells: olfactory receptor cells, supporting cells, and basal cells
+
+Olfactory Receptor Cells
+	-sites of transduction that are actual neurons
+	-have a single dendrite that ends at the surface of the epithelium
+	-on the end of the dendrite are cilia where odorants bind
+	-axons extend to the CNS
+
+Olfactory Nerve
+	-the olfactory receptor cell axons constitute the olfactory nerve
+	-the axons are not all together in a single nerve bundle
+
+Olfactory Bulb
+	-the axons of the olfactory receptor cells enter the olfactory bulbs in the brain
+	-each bulb contains glomeruli, spherical structures containing the endings of the olfactory axons
+	-the olfactory axons here synapse with olfactory neurons
+	-each glomerulus receives input from one type of receptor cell and receptor gene
+
+Odorant Receptor Proteins
+	-have binding sites where the odorant binds to the receptor cell
+	-there are 350 different genes coding for these proteins in humans
+	-each has its own structure, which allows only certain odorants to bind to each one
+	-G-protein coupled receptors
+	-each receptor cell has one type of receptor protein
+
+Olfactory Cortex
+	-this is one of the targets of the axons coming from the olfactory bulbs and deeper into the brain
+	-smell sensory information uniquely does not have to pass through the thalamus
+
+Basal Cells
+	-source of new receptor cells
+	-olfactory receptors continually grow, die and regenerate
+
+Supporting Cells
+	similar to glia and help produce mucus
+
+
+
+OLFACTORY TRANSDUCTION
+	...
+
+Step 1
+	the odorant binds to the olfactory receptor protein on the end of the dendrite
+
+Step 2
+	a G-protein is stimulated
+
+Step 3
+	G-protein activates adenylyl cyclase
+
+Step 4
+	adenylyl cyclase reacts with ATP to form cAMP
+
+Step 5
+	cAMP binds to a cyclic nucleotide-gated cation channel, which opens the channel and allows Na+ and Ca2+ to flow in (causing depolarization)
+
+Step 6
+	Cl- channels activated by Ca2+ open and Cl- flows out of the cell, amplifying the depolarization
+
+Step 7
+	the AP continues along the olfactory nerve axon to the olfactory bulb
+
+
+
+PROPERTIES OF LIGHT
+	...
+
+Light
+	-waves of electromagnetic energy that is visible to our eyes
+	-visible light has wavelengths of 400-700nm
+
+Wavelength
+	the distance between successive peaks or troughs (width)
+
+Frequency
+	-the number of waves per second
+	-energy content is proportional to frequency, which means that high frequency waves have the highest energy content and vice versa
+
+Amplitude
+	the difference between wave trough and peak (height)
+
+Ray
+	-a wave of electromagnetic radiation that travels in a straight line in a vacuum
+	-light waves in our environment (not a vacuum) also travel in straight lines until they are reflected, absorbed, or refracted
+
+Reflection
+	bouncing of light rays off of a surface
+
+Absorption
+	-transfer of light energy to a particle or surface
+	-black objects absorb all visible wavelengths of energy
+	-other compound absorb light energy at a limited range of wavelengths and reflect the remaining wavelengths
+	-the compound will appear as the color corresponding to those remaining wavelengths
+
+Refraction
+	-the bending of light rats that can occur when they travel from one transparent medium to the other
+	-ex: when you put your leg in a pool and it looks bent at the surface
+	-this is because the light is traveling from air to water and it passes through the air faster
+	-a greater angle of refraction will occur if there's a greater difference between the media
+	-ex: in the eye, there is transparent media that cause light rays to bend to form images on the retina
+
+
+
+STRUCTURE OF THE EYE
+	...
+
+Pupil
+	-opening that allows light to enter the eye and reach the retina
+	-it is dark so that it absorbs light
+
+Iris
+	-its pigmentation is what gives us our eye color
+	-contains 2 muscles, one that makes the pupil smaller when it contracts and one that makes it larger
+
+Cornea
+	a glassy transparent external surface that covers the iris and pupil
+
+Sclera
+	"the white of the eye"
+	-continuous with the cornea
+	-the tough wall of the eyeball
+
+Extraocular Muscles
+	-3 pairs of muscles in the sclera
+	-move the eyeball in its socket
+
+Conjunctiva
+	-a membrane that folds back from the inside of the eyelids and attaches to the sclera
+	-lies in front of the extraocular muscles
+
+Optic Nerves
+	a bundle of the axons of the retinal neurons
+
+Retina
+	-found at the back of the eye
+	-contains photoreceptors that convert light energy into neural activity
+	-there are 2 overlapping retinas, one for low light levels and one for higher light levels
+
+Optic Disk
+	-where the optic nerves exit the retina
+	-only part of the retina that does not contain photoreceptors
+	-we are not aware of this "hole" in our vision bc the brain fills our perception of this area
+
+Macula
+	-a dark region in the middle of each retina
+	-responsible for central vision
+
+Fovea
+	-another dark spot that marks the center of the retina
+	-the thinnest part of the retina
+	-it's a dip in the retina so that it passes the top layers of the retina and hits the photoreceptors directly
+
+Lateral Geniculate Nucleus (LGN)
+	-located in the thalamus
+	-it's the first target of the optic nerves
+	-from here, visual information goes to the cerebral cortex
+
+Aqueous Humor
+	the fluid behind the cornea that nourishes it
+
+Lens
+	a transparent lens lies behind the cornea and the aqueous humor
+
+Ciliary Muscle
+	-a muscle that forms a ring inside the eye going around the lens
+	-the lens is attached to ligaments that are attached to this muscle
+
+Vitreous Humor
+	-the liquid that lies between the lens and retina
+	-keeps the eyeball spherical
+
+
+
+EYE DISORDERS
+	...
+
+Cataracts
+	-affects many people over 65
+	-involves the clouding of the lens
+	-the old lens needs to be replaced with a plastic lens that cannot contract on its own
+
+Glaucoma
+	-progressive loss of vision due to elevated intraocular pressure
+	-this is the leading cause of blindness
+	-if the pressure in the aqueous humor gets too hight, the entire eye is stressed
+	-this eventually damages the spot where the optic nerve leaves the eye
+
+Detached Retina
+	-when the retina pulls away from the wall of the eye
+	-caused by a blow to the head or shrinkage of vitreous humor
+
+Retinitis Pigmentosa
+	-progressive degradation of photoreceptors
+	-could result in total blindness
+	-experience "tunnel vision"
+
+Macular Degeneration
+	-causes the loss of central vision
+	-common in people over 65
+
+
+
+RETINA STRUCTURE
+	...
+
+Flow of Visual Information in Retina
+	Photoreceptors --> bipolar cells --> ganglion cells
+
+Photoreceptors
+	-the only light-sensitive cells in the retina
+	-each contain an outer segment, inner segment, cell body, and synaptic terminal
+	-2 types: rods and cones
+
+Outer Segment of Photoreceptor
+	-contains a stack of membranous disks
+	-photopigments in the disks absorb light and trigger changes in the membrane potential
+
+Rod Photoreceptors
+	-have long, cylindrical outer segment
+	-1000 times more sensitive to light than cones
+	-more rods than cones in retina
+	-responsible for seeing in the dark
+	-no rods in the fovea
+
+Cone Photoreceptors
+	-have shorter outer segment with fewer disks
+	-less sensitive to light than rods
+	-responsible for seeing in the light and seeing color
+	-3 different types of cones that each contain a different photopigments (sensitive to different wavelengths of light)
+	-only cones in the fovea
+
+Bipolar Cells
+	-receive input from photoreceptors
+	-affect the membrane potential of ganglion cells
+
+Ganglion Cells
+	-fire action potentials in response to light
+	-impulses propagate along the optic nerve
+	-only cells in retina that fire action potentials
+
+Horizontal Cells
+	-receive input from photoreceptors
+	-project neurites laterally to influence nearby bipolar cells and photoreceptors
+
+Amacrine Cells
+	-receive input from bipolar cells
+	-project laterally to influence nearby ganglion, bipolar, and amacrine cells
+
+Retina Laminar Organization
+	-the cells of the retina are organized in layers
+	-the photoreceptors are the "bottom" layer, which means the light must pass through all of the other cell types before reaching the photoreceptors
+	-the other cells are transparent so they light can pass
+	-this arrangement is because the pigmented epithelium that lies below the photoreceptors helps maintain the cells and absorbs any extra light to prevent blurry images
+
+
+
+ORDER OF LAYERS IN RETINA
+	...
+
+Layer 1
+	ganglion cell layer
+
+Layer 2
+	inner plexiform layer
+	(contains synaptic connections between bipolar cells, amacrine cells, and ganglion cells)
+
+Layer 3
+	Inner nuclear layer
+	(contains bipolar cells, horizontal cells, and amacrine cells)
+
+Layer 4
+	outer plexiform layer
+	(contains synaptic connections between bipolar and horizontal cells)
+
+Layer 5
+	Outer nuclear layer
+	(contains photoreceptors)
+
+Layer 6
+	layer of photoreceptor outer segments
+	(contains the light-sensitive part of the retina)
+
+
+
+PHOTOTRANSDUCTION IN RODS
+	...
+
+Step 1
+	light strikes the cornea perpendicularly and at other slightly different angles (because the surface is curved)
+
+Step 2
+	-the perpendicular light rays pass through the eyeball fluids straight to the retina
+	-light rays hitting the cornea from other angles bend so that they converge at the retina
+	(look at the top image)
+
+Step 3
+	light passes through the layers of retina until it reaches the rods at the back
+
+Step 4
+	in complete darkness, the the membrane potential of the rod is -30mV caused b influx of Na+ (called the dark current)
+
+Step 5
+	-the pigment rhodopsin absorbs light (receptor protein = opsin)
+	-the light causes a conformational change in retinal so that it activates opsin
+
+Step 6
+	rhodopsin has changed so that it absorbs different wavelengths and that activates G-protein called Transducin
+
+Step 7
+	Transducin activates the enzyme phosphodiesterase (PDE) which breaks down cGMP
+
+Step 8
+	-since cGMP keeps Na+ channels open, its destruction leads to the closing of Na+ channels
+	-the membrane hyperpolarizes
+
+Step 9
+	the rod releases neurotransmitter glutamate to activate bipolar cells, which activate ganglion cells
+
+
+
+PHOTOTRANSDUCTION IN CONES
+	...
+
+Step 1
+	light strikes the cornea perpendicularly and at other slightly different angles (because the surface is curved)
+
+Step 2
+	-the perpendicular light rays pass through the eyeball fluids straight to the retina
+	-light rays hitting the cornea from other angles bend so that they converge at the retina
+	(look at the top image)
+
+Step 3
+	light passes through the layers of retina until it reaches the cones at the back
+
+Step 4
+	in complete darkness, the the membrane potential of the cone is -30mV caused b influx of Na+ (called the dark current)
+
+Step 5
+	-the pigment rhodopsin absorbs light (receptor protein = opsin)
+	-the light causes a conformational change in retinal so that it activates opsin
+	-in cones, there are 3 types of opsin that absorb different wavelengths of light so that we can see a range of colors
+
+Step 6
+	rhodopsin has changed so that it absorbs different wavelengths and that activates G-protein called Transducin
+
+Step 7
+	Transducin activates the enzyme phosphodiesterase (PDE) which breaks down cGMP
+
+Step 8
+	-since cGMP keeps Na+ channels open, its destruction leads to the closing of Na+ channels
+	-the membrane hyperpolarizes
+
+Step 9
+	the cone releases neurotransmitter glutamate to activate bipolar cells, which activate ganglion cells
+
+Types of Cone Opsins
+	blue - absorb 430 nm
+	green - absorb 530 nm
+	red - absorb 560 nm
+
+Young-Helmholtz Trichromacy Theory
+	our perception of colors is dependent on a mixture of colors and their ratios, not just one wavelength per color
+
+Light Adaptation
+	-when you step into light, the cones get hyperpolarized
+	-this causes Na+ channels to close
+	-but then the channels slowly begin to open again because Ca2+ (which inhibits the production of cGMP to keep Na+ channels open), cannot enter the cell
+	-this means that cGMP won't be inhibited, more will be produced, and the Na+ channels can start to open again
+
+Receptive Field
+	-the area of the retina that would affect a particular neuron if light is shown on it
+	-in other words, light hitting outside of the receptive field of a neuron won't affect that neuron
+
+Antagonistic Center-Surround Receptive Fields
+	-bipolar and ganglion cells have this
+	-when the response of the cell's membrane potential to light in the receptive field is opposite to that of light in the surround
+
+ON-Center Bipolar Cells
+	-when light shown onto the receptive field causes the hyperpolarization of the photoreceptor and depolarization of the bipolar cell
+	-even though the cone is hyperpolarized to light, the ON bipolar cell has the opposite response
+	-when light is shown in the surround of the receptive field causes hyperpolarization of the surrounding photoreceptors, depolarization of the central photoreceptor, hyperpolarization of horizontal cells, and the hyperpolarization of the bipolar cell
+	receptors, which cause an inhibitory response
+
+OFF-Center Bipolar Cells
+	-when light shown onto the receptive field causes the hyperpolarization of the photoreceptor and hyperpolarization of a bipolar cell
+	-when light shown in the surround of the receptive field causes the surrounding photoreceptors to hyperpolarize, the central photoreceptor to depolarize, the horizontal cells to hyperpolarize, and the bipolar cell to depolarize
+
+ON-Center Ganglion Cell
+	-will be depolarized in response to light on its receptive field
+	-initiates APs
+
+OFF-Center Ganglion Cell
+	-will fire few APs when light shines on its receptive field
+	-if the receptive field is dark, it will fire more APs
+
+Ganglion Cell Receptive Fields
+	-in ganglion cells, the receptive field works slightly differently
+	-with these cells, a light-dark edge of light will produce the greatest activity in the cell
+	-therefore, when the center and surround are completely lit up or completely dark, there will be very little response because the center and surround responses are opposite and cancel each other out
+	-depending on if the ganglion cell is OFF or ON type, it will have more or less firing of APs when the light covers the center completely (and only a bit of surround), or when the light covers the surround (and a little bit of the center)
+
+M-Type Ganglion Cells
+	-large receptive fields
+	-conduct APs more rapidly in optic nerve
+	-most sensitive to low-contrast stimuli
+	-repsond to stimulation of receptive field centers with bursts of APs
+
+P-Type Ganglion Cells
+	-small receptive field s
+	-conduct APs slowly
+	-not sensitive to low-contrast stimuli
+	-respond to stimulation of receptive field centers with a sustained discharge of APs while the stimulus is on
+
+Color-Opponent Cells
+	-P and nonP-nonM ganglion cells that are sensitive to colors
+	-M ganglion cells don't differentiate between the colors, so it won't matter which color illuminates which part of the receptive field, they have the same response to everything
+	-when one color shows in the center and one in the surround, it cancels the response
+	-the types of opponency are red vs. green and blue vs. yellow
+
+Red-Green Color Opponency
+	ex: red ON center green OFF surround (R+G-)
+	-there is some overlap in the wavelengths that red and green cones will absorb
+	-if red light is only in the center, there will be a strong burst of APs
+	-if red light is in the center and surround, there will be fewer APs because the green cones in the surround will also absorb some of the red-light wavelengths and initiate the inhibitory response
+	-if red is in the center and green is in the surround, the excitatory response is canceled
+	-white light would equally activate both center and surround, canceling the response
+
+Blue-Yellow Color Opponency
+	ex: blue ON center yellow OFF surround (B+Y-)
+	-the yellow wavelengths with be absorbed by both red and green cones
+	-there is LITTLE overlap in the wavelengths that blue cones will absorb vs. red and green cones
+	-if blue light is only in the center, there will be a strong burst of APs
+	-if blue light is in the center and surround, there will still be a strong response because the red and green cones in the surround do not absorb the same wavelengths of light
+	-if blue is in the center and yellow is in the surround, the excitatory response is canceled
+	-white light would equally activate both center and surround, canceling the response
+
+Intrinsically Photosensitive Retinal Ganglion Cells (ipRGCs)
+	-some ganglion cells can transduce light like photoreceptors (although, not many)
+	-use melanopsin as a photopigment
+	-they depolarize to light and have very large receptive fields
+	-this means that they aren't good for seeing fine patterns, but are instead used for detecting changes in sunlight and synchronizing behavior to the circadian rhythm
+	-they also receive input from rods and cones and send APs through the optic nerve, like normal ganglion cells
+
+Focal Distance
+	distance between the surface of the cornea where the light hits and the point at which the light rays converge at the retina
+
+Diopter
+	-a unit of measurement for refractive power of the cornea
+	-the reciprocal of focal distance
+
+Lens Accomodation
+	-the lens must change its shape depending on how far away an object is
+	-objects that are father away, little refraction is needed so the lens is flat due to ciliary muscle relaxation
+	-closer objects require more refraction so the lens bends by ciliary muscle contraction
+
+Pupillary Light Reflex
+	-when the pupil gets larger when it's dark and smaller when it's light
+	-constriction in response to light gives the eye a greater depth of focus (meaning more things will be in focus at a range of distances)
+
+Visual Field
+	the area that each eye can see
+
+Visual Acuity
+	the ability of the eye to distinguish 2 points near each other
+
+
+
+PROBLEMS WITH VISION
+	...
+
+Emmetropia
+	-normal eyesight
+	-when no accomodation is needed to see objects over a wide range of distances
+
+Hyperopia
+	"farsightedness"
+	-when the eyeball is too short from the back
+	-the light will focus on a point behind the retina
+
+Myopia
+	"nearsightedness"
+	-when the eyeball is too long from the back
+	-the light will converge at a point before the retina
+
+Astigmatism
+	when curvature and refraction of the light is different
+
+Presbyopia
+	-the hardening of the lens with aging
+	-the lens is less elastic and is unable to change shape and accommodate to focus on both near and far objects
+
+Parallel Processing
+	-different visual attributes are processed simultaneously using distinct pathways
+	-ex: we use 2 eyes to see, and they produce parallel streams of info
+	-this helps us determine the depth of the image
+

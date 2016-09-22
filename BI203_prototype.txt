@@ -1,0 +1,1680 @@
+BI203: Chapter 1, BI203: Chapter 2, BI203: Chapter 3, BI203: Chapter 4, BI203: Chapter 5, BI203: Chapter 6, BI203: Chapter 7 Flashcards | Quizlet
+
+
+
+
+EVOLUTION OF CELLS
+	...
+
+Stanley Miller Experiment
+	1950s
+	-in Earth's primitive atmosphere (containing no O2, and mostly N2 and CO2) organic molecules could form spontaneously
+	-in the experiment, electrical sparks in a mixture of H2, CH4, NH3, and water led to the formation of organic molecules (including amino acids)
+
+RNA World
+	-period of evolution
+	-when RNA was the genetic system
+	-early chemical evolution based on self-replicating RNA molecules
+
+Evolution of Metabolism
+	evolution of energy-generating reactions on Earth
+	1. Glycolysis (anaerobic breakdown of glucose to lactic acid, net gain of 2 ATP)
+	2. Photosynthesis (first photosynthetic bacteria believed to be responsible for rising O2 levels in atmosphere 2.4 bya)
+	3. Oxidative Metabolism (more efficient than glycolysis, utilizing O2 reactivity to get energy from organic molecules, net gain of 36 ATP)
+
+
+
+TYPES OF CELLS
+	...
+
+Prokaryotic Cells
+	Includes archaebacteria and bacteria
+	-Lack nucleus
+	-usually smaller and simpler
+	-less complex genomes
+	-do not contain cytoplasmic organelles
+	-appox. 1 micrometer in diameter
+	-most have a cell wall and plasma membrane underneath
+	-cell wall lets more into the cell than the PM
+
+Cyanobacteria
+	-largest and most complex prokaryotes
+	-first to perform photosynthesis
+
+Eukaryotic Cells
+	-have a nucleus that separates the genetic material from the cytoplasm
+	-larger, more complex
+	-approx. 10-100 micrometers in diameter
+
+Endosymbiosis Theory
+	-responsible for the evolution of eukaryotic cells
+	-eukaryotic organelles are believed to have evolved from prokaryotic cells living in eukaryotes
+	-mitochondria and chloroplasts are similar in size to bacteria, contain their own DNA (distinct from cell), and reproduce
+	-it is also believed that an endosymbiotic relationship between bacteria and archaebacteria gave rise to the eukaryotic genome
+
+When did multicellular organisms evolve?
+	1-2 billion years ago
+
+
+
+EXPERIMENTAL MODEL CELLS
+	...
+
+E. coli
+	-most studied species of bacteria
+	-reproduce frequently
+	-small genome helps with genetic analysis
+	-large colonies makes it easy to find mutants that are resistant to certain antibiotics
+
+Yeasts
+	-the simplest eukaryotes and often used to study eukaryotic function
+	-readily grown in a lab
+	-divide frequently (but not as frequently as bacteria)
+
+C. elegans
+	-nematode used to understand the development of multicellular organisms
+	-small genome compared to most multicellular organisms
+	-easily grown in a lab
+	-simple organisms, only consisting of a few hundred cells
+
+Drosophila melanogaster
+	-small genome (although larger than C. elegans)
+	-easily maintained and bred in lab
+	-short reproductive cycle of 2 weeks
+	-used to understand the fundamentals of genetics and animal development
+
+Arabidopsis Thaliana
+	-small flowering plant
+	-model for the molecular biology of plants
+	-similar genome size as Drosophila and C. elegans
+
+Xenopus Laevis
+	-model for vertebrates
+	-large egg cells
+	-eggs develop outside the mother, so the stages of development from e.g. to tadpole can be studied in a lab
+
+Zebra Fish
+	-models for vertebrate development
+	-easy to maintain in lab
+	-reproduce rapidly
+	-embryo develops outside the mother and is transparent, easily observe stages of development
+
+Mice
+	-most used mammal in lab studies
+	-have similar genomes to humans
+	-have similar developmental defects as a result of mutations
+
+
+
+MICROSCOPY
+	...
+
+1. Light Microscopes
+	-magnify up to 1000 times
+	-can see most cells and large organelles
+	-can't see too much detail bc. a greater resolution is needed
+	-limit of resolution = 0.2 Micrometers
+
+Resolution
+	ability of a microscope to distinguish objects separated by small distances
+
+Bright-Field Microscopy
+	-light passes directly through the cell
+	-ability to distinguish different parts of the cell depends on contrast from absorption of visible light by cell components
+	-cells are usually stained with dyes that react with proteins and enhance the contrast between different parts of the cell
+	-cells are dead
+
+Phase-Contrast Microscopy
+	-light microscopy for visualizing live cells
+	-improved contrast
+
+Differential Interference-Contrast Microscopy
+	-light microscopy for visualizing live cells
+	-improved contrast
+
+Fluorescence Microscopy
+	-dye is used to label the molecule of interest with either fixed or living cells
+	-dye absorbs light at 1 wavelength and emits at another wavelength
+	-the specimen is illuminated with a wavelength of light that excites the dye
+	-filters detect the wavelength that it emits
+
+Green Fluorescent Protein
+	-GFP can fuse with any protein of interest and be expressed in cells
+	-used to localize proteins in living cells
+
+Fluorescence Recovery after Photobleaching (FRAP)
+	-when a region of a cell expressing a GFP-labeled protein is bleached by exposure to high intensity light
+	-determine the rate at which the protein moves within the cell
+
+Fluorescence Resonance Energy Transfer (FRET)
+	-when two proteins of interest are coupled to different fluorescent dyes
+	-analyze the interaction between these proteins
+	-if the light emitted by one dye excites the other dye, then those proteins interact in the cell
+
+Confocal Microscopy
+	-allows images of increased contrast and detail to be obtained by analyzing fluorescence from only a single point in the specimen
+	-sharper image than fluorescence microscopy
+	-a series of images obtained at different depths can be used to get a 3D image
+	-cells are dead
+
+Multi-Photon Excitation Microscopy
+	-alternative to confocal that can be applied to living cells
+	-specimen illuminated with a wavelength of light such that excitation of of the fluorescent dye requires the simultaneous absorption of two or more photons
+	-fluorescence only emitted from the point of light focus
+	-highly localized excitation gives 3D image and damages the cell less
+
+2. Electron Microscopy
+	-much better resolution than light microscopy bc. the wavelength of electrons is shorter than that of light
+	-theoretical resolution of 0.002 nanometers
+	-cells are dead
+
+Transmission Electron Microscopy
+	-specimens are fixed and stained with salts and heavy metals
+	-this provides contrast by scattering electrons
+	-a beam of electrons is passed through the specimen and focused to form an image
+	-electrons that hit a heavy metal ion are deflected and do not contribute to the final image
+
+Electron Tomography
+	technique produces 3D views of structures with high resolution
+
+Metal Shadowing
+	-used to visualize the surface of isolated sub cellular structures or molecules
+	-specimen is covered with thin layer of evaporated metal
+	-some parts of the specimen are covered more with the evaporated metal, creating a shadow effect and a 3D appearance
+
+Freeze Fracture
+	-specimens are frozen with liquid nitrogen and then fractured with a knife blade
+	-this splits the lipid bilayer and reveals the interior faces of the cell membrane
+	-it's then shadowed with platinum and the actual PM is dissolved with acid
+	-this leaves a metal replica of the sample surface
+
+Scanning Electron Microscopy
+	-provides a 3D image of cells
+	-the surface of the cell is covered with a heavy metal
+	-a beam of electrons is used to scan across the specimen
+	-the beams don't go through the specimen, so you get an image of the surface
+
+3. Super Resolution Light Microscopy
+	-increases the resolution of fluorescence microscopy
+	-better than electron microscopy bc. it's easier to use, less expensive, and the cells can be alive
+
+Differential Centrifugation
+	-technique used to separate components of cells on the basis of their size and density
+	-the PM needs to be broken using a method that leaves the other organelles intact
+	-the suspension of broken cells are centrifuged
+	-the largest/densest objects sediment most rapidly
+
+Density-Gradient Centrifugation
+	organelles are separated by sedimentation through gradient of a dense substance, like sucrose
+
+Velocity Centrifugation
+	-starting material is layered on top of a sucrose gradient
+	-particles of different sizes sediment through the gradient at different rates, moving in discrete bands
+	-organelles can be separated based on size
+
+Equilibrium Centrifugation
+	-technique used to separate organelles based on their density, independent of size and shape
+	-sample centrifuged in a gradient of sucrose of cesium chloride
+	-particles are centrifuged until they're a equilibrium, meaning their density is equal to that of the surrounding sucrose or cesium chloride
+
+Embryonic Stem Cells
+	-cells that are established in culture from early embryos
+	-maintain the ability to differentiate into all of the cell types of the adult organism
+
+Primary Cultures
+	-initial cell cultures established from a tissue
+	-usually grow until they cover an entire dish
+	-they can be removed from the dish and replicated a lower density to form secondary cultures
+
+Cell Line
+	-cells in culture that grow indefinitely
+	-HeLa cell culture was the first human cell line
+
+Callus
+	a mass of undifferentiated plant cells that results from their proliferation in culture
+
+
+
+CARBOHYDRATES
+	...
+
+Role of Carbs
+	-breakdown of simple sugars provides both a source of cellular energy and the starting material for the synthesis of other cell parts
+	-polysaccharides are storage for sugars and structural components of the cell
+	-oligosaccharides and polysaccharides play a role in cell-to-cell communication and recognition
+
+Monosaccharides
+	-simple sugars
+	-includes: glucose, ribose, fructose, and galactose
+
+Glycosidic Bond
+	-the bond between two monosaccharides
+	-formed by dehydration reaction
+
+Oligosaccharide
+	polymer of only a few simple sugars
+
+Polysaccharide
+	-polymer of hundreds or thousands of simple sugars
+	-includes: glycogen, starch, chitin and cellulose
+
+Glycogen
+	-storage of glucose (alpha) molecules in animal cells
+	-linkage between carbon 1 of one glucose and carbon 4 of the other glucose
+	-branched
+
+Starch
+	-storage of glucose (alpha) molecules in plant cells
+	-linkage between carbon 1 of one glucose and carbon 4 of the other glucose
+	-amylopectin can have a 1-->6 linkage and is branched
+	-amylose is unbranched
+
+Cellulose
+	-principle structural component of plant cell walls
+	-all glucose (beta) molecules
+	- 1-->4 linkage
+	-unbranched
+
+Chitin
+	-forms the exoskeletons of crabs and insects
+	-all glucose (beta) molecules
+	- 1-->4 linkage
+	-unbranched
+
+
+
+LIPIDS
+	...
+
+Role of Lipids
+	-energy storage
+	-major component of cell membranes
+	-important for cell signaling in the form of steroid hormones and messenger molecules
+
+Fatty Acids
+	-simplest lipids
+	-long hydrocarbon chains with a carboxyl group at one end
+
+Saturated Fatty Acids
+	-single bonds between carbon atoms
+	-no kinks
+	-solid at room temp
+
+Unsaturated Fatty Acids
+	-contain one or more double bonds between carbon atoms
+	-have kinks
+	-liquid at room temp
+
+Palmitate
+
+
+	C16
+
+Stearate
+	C18
+	-no double bond
+
+Oleate
+	C18
+	-double bond
+
+Triacylglycerols (Triglycerides, Fats)
+	-storage of fatty acids
+	-3 fatty acids linked to a glycerol molecule
+
+Phospholipids
+	-principle components of cell membranes
+	-two fatty acids joined to a polar head group
+	-in glycerol phospholipids, the fatty acids are bound to carbon atoms in glycerol, which is bound to a phosphate group, which is bound to a small polar molecule (ethanolamine, choline, serine, or inositol)
+
+Phosphatidic Acid
+	2 fatty acids, glycerol, phosphate group
+
+Phosphatidyl-ethanolamine
+	2 fatty acids, glycerol, phosphate, and ethanolamine
+
+Phosphatidyl-choline
+	2 fatty acids, glycerol, phosphate, choline
+
+Phosphatidylserine
+	2 fatty acids, gycerol, phosphate, serine
+
+Glycerol
+
+
+	3 C
+	5 H
+	3 OH
+
+Phosphatidylinositol
+	2 fatty acids, glycerol, phosphate, inositol
+
+Sphingomyelin
+	2 fatty acids, serine, phosphate, and choline
+
+Amphipathic
+	when a molecule has both polar and non polar parts
+
+Glycolipids
+	-two hydrocarbon chains linked to carbs
+	-amphipathic
+
+Cholesterol
+	-four hydrocarbon rings with a hydroxyl group
+	-amphipathic
+
+Testosterone
+	Steroid
+
+Estradiol
+	Steroid (form of estrogen)
+
+
+
+NUCLEIC ACIDS
+	...
+
+Deoxyribonucleic Acid
+	base pairs: adenine, guanine, cytosine, and thymine
+	sugar: 2' deoxyribose
+	shape: double helix
+
+Ribonucleic Acid
+	base pairs: adenine, guanine, cytosine, and uracil
+	sugar: ribose
+	shape: single strand
+
+Nucleoside
+	base pair linked to a sugar
+
+Nucleotide
+	base pair, sugar, and phosphate group
+
+Purines
+	adenine and guanine
+
+Pyrimidines
+	cytosine, thymine, and uracil
+
+Phosphodiester Bonds
+	-involved in the formation of nucleic acids from nucleotides
+	-between the 5' phosphate of one nucleotide and the 3' hydroxyl group of another
+
+Oligonucleotides
+	polymers containing only a few nucleotides
+
+Polynucleotides
+	-polymers containing thousands or millions of nucleotides
+	-a nucleotide chain has a 3' end and a 5' end
+	-polynucleotides are synthesized from 5' to 3'
+
+
+
+PROTEINS
+	...
+
+Role of Proteins
+	-structural components of cells
+	-help with the transport of small molecules (cell membrane)
+	-help with the transmission of info between cells (hormones)
+	-provide defense against infection (antibodies)
+	-enzymes
+
+Amino Acid
+	-20 different types
+	-carbon (alpha) atom, carboxyl group (COO-), amino group (NH3+), hydrogen atom, and R side chain
+
+Peptide Bonds
+	hold together amino acids at the carboxyl group of one and the amino group of the other
+
+Polypeptide
+	-linear chains of amino acids with hundreds or thousands of amino acids
+	-one end is the N terminus (amino group)
+	-other end is the C terminus (carboxyl group)
+	-synthesized from amino to carboxyl terminus
+
+Protein Denaturing Experiment
+	-a protein was heated and it was denatured as a result (lost its shape)
+	-the protein was left alone and it returned to its native conditions/shape
+	-this means that the amino acid sequence determines the shape of a protein
+
+X-Ray Crystallography
+	-technique for analyzing the 3D structure of proteins
+	-when an X-ray beam is directed towards a protein, the pattern of scattered X-rays determines the structure
+
+Primary Structure
+	sequence of amino acids in the polypeptide chain
+
+Secondary Structure
+	-regular arrangement of amino acids within localized regions of the polypeptide
+	-types: alpha helix and beta sheet
+
+Alpha Helix
+	-held together by hydrogen bonds between CO and NH groups
+	-polypeptide regions coil around themselves
+
+Beta Pleated Sheet
+	-held together by hydrogen bonds between CO and NH groups
+	-formed when parts of the polypeptide chain lie side by side with hydrogen bonds between them
+	-polypeptide strands can be either parallel or antiparallel
+
+Tertiary Structure
+	-overall folding of a single polypeptide chain as a result of interactions between the side chains of amino acids that lie in different regions of the primary sequence
+	-domains = basic unit of territory structure (sections containing 50-200 amino acids)
+	-a single strand with regions of alpha helices and beta sheets
+
+Quaternary Structure
+	involves interactions between different polypeptide chains in proteins composed of more than one polypeptide
+
+
+
+ENZYMES
+	...
+
+Role of Enzymes
+	-increase the rate of chemical reactions by lowering activation energy
+	-they are not consumed by the reaction
+	-do not alter equilibrium between reactants and products
+
+Transition State
+	in order for a reaction to proceed, the substrate must be converted to a higher energy state
+
+Activation Energy
+	-energy required to reach the transition state
+	-enzymes lower this
+
+Active Site
+	-enzymes bind to the substate at the active site to form an enzyme-substrate complex
+	-substrates bind to the active site by noncovalent interactions (hydrogen bonds, ionic bonds, or hydrophobic interactions)
+	-it can involved 2 substrates binding to the active site as well
+	-in that case, the enzyme acts as a template on which the substrates can properly orient themselves for the reaction to proceed
+
+Lock-and-Key Model
+	-simplest model of enzyme-substrate interaction
+	-when the substrate fits precisely into the active site
+
+Induced Fit
+	-when the configurations of the enzyme and substrate are modified by substrate binding
+	-the the conformation of the substrate is altered to that it more closely resembles that of the transition state
+
+Coenzymes
+	-small molecules that also bind to the active site to help speed up the reaction rate
+	-not altered by the reaction
+	-can be recycled
+
+Prosthetic Groups
+	small molecules bound to proteins in which they play crucial functional roles
+
+Nicotinamide Adenine Dinucleotide (NAD+)
+	example of a coenzyme
+	-carries electrons in oxidation-reduction reactions
+	-NAD+ can accept H+ and 2 electrons from one substrate to form NADH
+	-NADH can donate these electrons to a second substrate and reform NAD+
+
+Allosteric Regulation
+	-when enzyme activity is controlled by the binding of small molecules to regulatory sites on the enzyme
+	-when the molecule binds at one location on the enzyme, it causes the active site to change shape
+
+Feedback Inhibition
+	example of allosteric regulation
+	-when the product of the metabolic pathway inhibits the activity of an enzyme involved in its synthesis
+	-this makes sure that the cell isn't wasting energy making a certain product when there's already a lot of it present
+
+Phosphorylation
+	the addition of a phosphate group either stimulates or inhibits the activities of many different enzymes
+
+
+
+MEMBRANES
+	...
+
+Membrane Fluidity
+	-lipid bilayers behave as 2D fluids in which lipids and proteins can rotate and move laterally
+	-membranes containing shorter fatty acids are less rigid (weaker interactions) and are more fluid at room temp
+	-membranes containing unsaturated fatty acids are also more fluid because they contain double bonds and kinks
+
+Membrane Cholesterol
+	-cholesterol keeps the membrane rigid at high temps and fluid at low temps
+	-cholesterol interacts with the phospholipids and decreases the mobility of the outer portions of the fatty acid chains, making the membrane more rigid
+	-but, at lower temps, cholesterol keeps the membrane fluid by interfering with interactions between fatty acid chains
+
+Fluid Mosaic Model
+	-proteins make up 25-75% of membrane mass
+	-in this model, proteins are inserted into the lipid bilayer
+
+Integral Membrane Proteins (Transmembrane)
+	-proteins that are embedded directly in the lipid bilayer
+	-the portions inside the membrane are usually a-helix regions
+	-some can pass through the membrane at more than one location
+	-the portion spanning the membrane can also be a b-barrel shape (beta sheets folded into a barrel-like structure)
+
+Peripheral Membrane Proteins
+	-proteins that are not inserted in the bilayer, but are still associated with the membrane indirectly
+	-they usually interact with a transmembrane protein
+
+Things that Can Diffuse Through the Membrane
+	-hydrophobic molecules (ex: steroid)
+	-small, uncharged molecules (ex: O2, CO2, H2O)
+
+Things that Cannot Diffuse Through the Membrane
+	-large polar molecules and ions (ex: glucose, H+, Cl-, Ca2+, Na+, some amino acids)
+
+Channel Proteins
+	-open pores
+	-allow the free passage of molecules that are the correct size through the membrane
+	-the pores can be selectively opened and closed
+	-can only help with passive transport
+
+Carrier Proteins
+	-selectively bind and transport specific molecules across the membrane
+	-when they bind the molecules, they undergo conformational change to open channels through which the molecule can be transported
+	-can help with either passive OR active transport
+
+Active Transport
+	-when molecules are transported in an energetically unfavorable direction across the membrane (usually against the concentration gradient)
+	-coupled with ATP hydrolysis
+
+
+
+CELLULAR RESPIRATION
+	...
+
+Gibbs Free Energy
+	-enthalpy (heat) and entropy (disorder) of a reaction
+	-all reactions proceed spontaneously in the energetically favorable direction
+	-there will be a decrease in free energy
+	
+	∆G = ∆G˚+ RT ln[B]/[A]
+
+
+
+∆G˚
+	delta G at standard conditions (1M concentration of all reactants and products, 1 atm)
+
+Adenosine 5'-Triphosphate
+	-acts as a store of free energy in the cell
+	-bonds between phosphates are "high energy bonds"
+	-when these bonds hydrolyze, there is a large decrease in free energy (hydrolysis is ATP --> ADP + phosphate)
+	∆G˚= -7.3 kcal/mol
+	∆G = -12 kcal/mol (considers the actual concentrations within a cell)
+
+
+
+ATP --> AMP
+	-yields about the same amount of energy as hydrolysis of ATP to ADP
+	-but the phosphate that results from this is also hydrolysed, with ∆G similar to ATP --> AMP
+	-this means the total ∆G for this process is twice that of ATP --> ADP
+	∆G = -3.3 kcal/mol
+
+
+
+THE BREAKDOWN OF GLUCOSE
+	involves:
+	1. Glycolysis
+	2. Pyruvate Dehydrogenous
+	3. Krebs cycle
+	4.Oxidative phosphorylation
+
+
+
+1. GLCOLYSIS
+	-occurs in the absence of oxygen, and is the only metabolic step in anaerobic organisms
+	-conversion of glucose to pyruvate
+	-net gain of 2 ATP
+	-takes place in the cytosol
+	-2 molecules of NADH formed
+
+Step 1
+	-ATP is hydrolyzed and a phosphate group is added to the glucose molecule, which becomes glucose-6-phosphate
+	-ADP is a product
+
+Step 2
+	-the carbonyl group (C=O) in glucose on C1 is moved to C2, making it fructose
+	-it needs to become fructose because the carbonyl group needs to be in the C2 position for the cleavage to occur between C3 and C4 to create two 3-carbon segments
+	-enzymes hexokinase and phosphofructokinase help regulate steps 1 and 2
+	-phosphofructokinase is inhibited by high levels of ATP, resulting in accumulation of glucose
+	-the glucose inhibits hexokinase
+	-therefore, when there's enough ATP, the breakdown of glucose is inhibited
+
+Step 3
+	-ATP is hydrolyzed and a phosphate group is added to the fructose molecule, making it fructose-1,6-biphosphate
+	-ADP is a product
+
+Step 4
+	-fructose-1,6-biphosphate cleaves
+	-two 3-carbon molecules are generated: G3P and DHAP (becomes 2 G3P molecules in next step)
+
+Step 5
+	-in order to get the carboxylate in the pyruvate, an aldehyde group (located at C1) needs to be present and oxidized
+	-G3P already has a aldehyde group at C1, so it's fine and ready for the next step
+	-DHAP has a an aldehyde group at C2, which is incorrect
+	-at this point, the aldehyde group is moved from C2 to C1, yielding another G3P
+
+Step 6
+	-the aldehyde group in G3P is oxidized to carboxylate
+	-3 electrons lost from G3P are given to NAD+ to make NADH (2x NADH b/c there are 2 G3P molecules)
+
+Step 7
+	phosphate on C1 is transferred to ADP to make ATP (2x ATP b/c there are two molecules)
+
+Steps 8 and 9
+	give PEP (phophoenol pyruvates), which are extremely high-energy compounds
+
+Step 10
+	two phosphates from 2xPEP are transferred to 2xADP to make 2xATP and 2xPyruvate
+
+
+
+NAD+/NADH
+	-NAD+ is an oxidizing agent that accepts electrons from G3P, becoming NADH
+	-NADH is recycled when it acts as a donor of electrons for other oxidation-reductions reactions in the cell
+	-in aerobic organisms, the electrons from NADH will be donated to the electron transport chain
+
+
+
+PYRUVATE DEHYDROGENOUS
+	-after glycolysis, the pyruvate molecules are transported to the mitochondria from the cytosol
+	-in the presence of coenzyme-A, one carbon of pyruvate is released as CO2
+	-the remaining 2 carbons are added to coenzyme-A, forming acetyl CoA
+	-2 molecules of NAD+ are reduced to NADH (one per pyruvate molecule)
+
+
+
+KREBS CYCLE (CITRIC ACID CYCLE)
+	-a 2-carbon acetyl group is transferred from acetyl CoA to oxaloacetate, forming citrate
+	-2 carbons of citrate are oxidized to CO2
+	-oxaloacetate is regenerated
+	
+	-products of 2 turns of the cycle (1 for each acetyl CoA molecule):
+	2 acetyl CoA ---> 4 CO2
+	2 ADP ---> 2 ATP
+	6 NAD+ ---> 6 NADH
+	2 FAD ---> 2 FADH2 (high energy compound)
+
+Derivation of Energy from Lipids
+	-a more efficient way to derive ATP
+	-triacylglycerols are fats that act as a storage form of lipids
+	-they breakdown into glycerol and 2 fatty acids
+	-each fatty acid is joined to coenzyme A, yielding fatty acyl-CoA
+	-next, in a stepwise oxidation process yielding a shorter fatty acyl-CoA and an acetyl CoA, each round yields 1 FADH2 and one NADH
+	-acetyl CoA enters the Kreb's Cycle
+	
+	total yield of 16-carbon fatty acid:
+	-7 molecules of NADH
+	-7 molecules of FADH2
+	-8 molecules of acetyl-CoA
+	-net gain of 130 ATP molecules from the molecules above (2.5 times greater net gain than a glucose molecule)
+
+
+
+OXIDATIVE PHOSPHORYLATION
+	-process that derives most of the usable energy from the breakdown of glucose
+	-involves the transfer of electrons from NADH and FADH2 to O2
+	-process takes place gradually by passage of electrons though a series of carrier proteins in the electron transport chain
+	-takes place in the inner mitochondrial membrane of eukaryotes and the plasma membrane of bacteria
+	-aerobic organisms
+
+Step 1
+	NADH gives electron to Complex I and becomes NAD+
+
+Step 2
+	-Complex I gives 2 electrons to Ubiquinone (AKA coenzyme Q)
+	-Ubiquinone is eventually responsible for transporting electrons to Complex III
+	-Complex I pumps protons to inter membrane space (space between the 2 membrane layers of the mitochondria)
+	
+	∆G˚= -16.6 kcal/mol
+
+Step 3
+	-FADH2 loses 2 electrons to Complex II and becomes FAD (inside the mitochondria)
+	-those 2 electrons are transported from Complex II to Ubiquinone
+	-there is no significant decrease in free energy, so the protons are not pumped into the inter-membrane space at Complex II
+
+Step 4
+	Ubiquinone electrons are transported to Complex III
+
+Step 5
+	-Complex III electrons are transported to Cytochrome C from Cytochrome B
+	-Complex III pumps protons to inter membrane space
+	
+	∆G˚= -10.1 kcal/mol
+
+Step 6
+	-Cytochrome C electrons are transported to Complex IV (AKA Cytochrome Oxidase)
+	-electrons are transferred to O2
+
+Step7
+	-O2 loses 4 electrons and becomes H2O and those electrons are given to Complex IV
+	-Complex IV pumps protons to inter membrane space
+	
+	∆G˚= -25.8 kcal/mol
+
+Proton Gradient
+	-the proton gradient across the membrane drives the synthesis of ATP
+	-the protons crossed the membrane because they were pumped by the complexes in the electron transport chain
+	-4 protons per pair of electrons is transported out of the mitochondria at each complex (except II)
+	-the inside of mitochondria becomes more negative than the outside
+
+Free Energy of Protein Gradient
+	∆G = -F∆V
+	
+	*F = Faraday Constant
+	**∆V = membrane potential
+	This describes the free energy corresponding to the proton gradient
+
+Free Energy of Difference in Proton Concentration Across Membrane
+	∆G = RT ln [H+ inside]/[H+ outside]
+
+Electrochemical Gradient
+	-describes the different in voltage and pH across the mitochondrial membrane due to the proton gradient
+	-pH of matrix = 8 and pH of cytosol = 7
+	-electric potential across membrane = 0.14 V
+	-both of these factors help to drive the protons back into the mitochondria from the cytosol
+
+
+
+ATP SYNTHASE
+	-fifth complex in the electron transport chain
+	-only channel through which protons can cross the inner membrane of the mitochondria
+	-this restriction allows energy from the electrochemical gradient to be harnessed and converted to ATP
+	
+	yield:
+	-4 proton molecules entering the mitochondria drives synthesis of 1 ATP molecule
+
+Step 1
+	-ATP synthase is divided into 2 components, F0 and F1, linked by a stalk
+	-protons go through channel of the F0 unit (an electrically driven motor)
+	-they enter the mitochondrion
+
+Step 2
+	-the F1 unit spins
+	-this catalyzes the synthesis of ATP from ADP and phosphate ions
+
+
+
+PHOTOSYNTHESIS
+	...
+
+Photosynthesis Reaction
+	6CO2 + 6H2O --> C6H12O6 +6O2
+	
+	2 stages:
+	1. light reactions
+	2. dark reactions
+
+Light Reactions
+	-when energy absorbed from sunlight drives the synthesis of ATP and NADPH
+	-coupled with oxidation of H2O to O2
+	-occurs in chloroplasts
+
+Dark Reactions
+	-when the ATP and NADPH drive the synthesis of carbs from CO2 and H2O
+	-does not require sunlight
+	-occurs in chloroplasts
+
+Photocenter
+	organization of 100s of photosynthetic pigments in the chloroplast membrane
+
+Chlorophyl A and B Structures
+	the same but A has a CH3 and B has CHO
+
+
+
+STEPS OF LIGHT REACTIONS
+	...
+
+Step 1
+	-photosystem II absorbs photons
+	-energy from this is used to split a water molecule
+	-the protons from this splitting of the water molecule will help to create a proton gradient
+
+Step 2
+	Plastoquinone (lipid-soluble carrier) carries electrons from photosystem II to another protein complex called Cytochrome bf
+
+Step 3
+	-electrons are transferred from Cytochrome bf to Plastocyanin (peripheral membrane protein)
+	-4 protons are pumped across the membrane into the lumen, contributing to the proton gradient
+
+Step 4
+	Plastocyanin carries electrons to photosystem I
+
+Step 5
+	-Photosystem I absorbs more photons, generating more high-energy electrons
+	-these electrons are used to reduce NADP+ to NADPH
+
+Step 6
+	Photosystem I transfers the electrons to Ferredoxin (protein on thylakoid membrane)
+
+Step 7
+	Ferredoxin and enzyme NADP+ reductase create a complex, which transfers electrons to NADP+ and creates NADPH
+
+STEPS OF CYCLIC ELECTRON FLOW (also part of the light reactions)
+	...
+
+Step 1
+	Photosystem I absorbs more light
+
+Step 2
+	high energy electrons are transferred from photosystem I to Cytochrome bf complex
+
+Step 3
+	electron transfer in Cytochrome bf is coupled with the establishment of a proton gradient across the thylakoid membrane
+
+Step 4
+	Plastocyanin returns the electrons to Photosystem I in a lower energy state
+
+ATP Synthesis
+	for each pair of electrons transported:
+	1. 2 protons are transferred across the membrane at photosystem II
+	2. 4 protons are transferred at Cytochrome bf
+	
+	-4 protons are needed per ATP molecule
+	-each pair of electrons leads to 1.5 molecules of ATP (only 1 ATP in cyclic electron flow)
+
+
+
+CALVIN CYCLE (DARK REACTIONS)
+	for each molecule of glucose synthesized:
+	-18 molecules of ATP consumed
+	-12 molecules of NADPH consumed
+	-24 electrons must pass through electron transport chain to make the right amount to NADPH
+	-the ATP comes from the electron transport chain and the cyclic electron flow
+
+Step 1
+	-6 CO2 molecules enter, and each one combines with ribulose-1,5-biphosphate to yield 2 molecules of 3-phosphoglycerate
+	-a total of 12 3-phosphoglycerate molecules will be formed
+
+Step 2
+	-the 12 molecules of 3-phosphoglycerate are converted into 12 molecules of glyceraldehyde-3-phosphate
+	-12 molecules of both ATP and NADPH are used
+
+Step 3
+	2 molecules of glyceraldehyde-3-phosphate are used for the synthesis of glucose
+
+Step 4
+	the remaining 10 molecules of glyceraldehyde-3-phosphate are used to form 6 molecules of ribulose-5-phosphate
+
+Step 5
+	6 ATP molecules help with the synthesis of 6 ribulose-1,5-biphosphate molecules
+
+
+
+SYNTHESIS OF CARBOHYDRATES IN CELL
+	...
+
+Gluconeogenesis
+	-when glucose is synthesized from 2 molecules of pyruvate
+	-requires 4 molecules of ATP, 2 molecules of GTP, and 2 molecules of NADH
+	-essentially the reverse of glycolysis and not as efficient
+
+Formation of Polysaccharides
+	1. glucose is phosphorylated in an ATP-driven reaction to glucose-6-phosphate
+	2. glucose-6-phosphate is converted to glucose-1-phosphate
+	3. glucose-1-phosphate reacts with UTP to yield UDP-glucose and pyrophosphate
+	4. pyrophosphate hydrolyzed to phosphate with additional release of free energy
+	5. UDP-glucose donates its glucose to a growing polysaccharide chain
+
+Synthesis of Lipids in Cell
+	-synthesized from acetyl-CoA
+	-uses 1 molecule of ATP and 2 molecules of NADPH for the formation of 2 carbon units
+
+Diploid
+	organisms with 2 copies of each chromosome
+
+Haploid
+	-organisms with 2 copy of each chromosome
+	-gametes of diploid organisms are haploid cells
+
+Discovery: Chromosomes Carry Genes
+	early 1900s
+	-scientists noticed that mutations in observable characteristics of Drosophila were sometimes inherited together
+	-the characteristics inherited together were considered linked because they were on the same chromosome
+	-conclusion: number of linked genes was the same as the number of chromosomes (4), supporting the idea that chromosomes carry genes
+
+Discovery: Relationship Between Genes and Enzymes
+	1941
+	-experimenters grew mutants of the mold Neurospora in both minimal and rich media
+	-the rich media included the basics to survive, plus amino acids, vitamins, etc.
+	-found that the mutants could grow normally in the rich media, but not the minimal media
+	-conclusion: the mutants required specific nutritional supplements from the media because they could not synthesize those nutrients. enzymes govern metabolic pathways required for the synthesis of these nutrients, which means that the mutants did not have genes encoding for the correct enzymes
+
+Hybrid Cross Ratio
+	3:1
+	ex:
+	Y = yellow
+	y = green
+	crossing Yy with Yy gives you yy (green), Yy, Yy, and YY (all yellow)
+
+Segregation Ratio
+	9:3:3:1
+	-in this case, two genes are located on different chromosomes
+	-after meiosis, there will be four different types of gametes
+
+Linked Genes Ratio
+	3:1
+	-in this case, both genes are located on the same chromosome and do not separate after meiosis
+	-this gives rise to only 2 different types of gametes
+
+Discovery: Structure of DNA
+	1953
+	James Watson and Francis Crick
+	-comprised of 4 nucleic acid bases, phosphorus, and sugar
+	-found that the molecule turns every 0.34 nm and has 2 strands
+	-CG and AT pair with hydrogen bonds on the inside of the 2 strands
+
+Discovery: DNA Replication
+	1958
+	-labeled DNA with N-15 and N-14
+	-E. coli were grown in a culture of either N-15 or N-14
+	-E. coli containing the heaver N-15 DNA were placed in culture with E. coli containing N-14 DNA and they reproduced
+	-the DNA was centrifuged and they found that the heavy DNA had been replaced by newly synthesized DNA with a density in between N-15 and N-14 E. coli
+	-conclusion: DNA is replicated by way of semi conservation, meaning one strand of parental DNA is conserved in each of the offspring's DNA molecules
+
+Discovery: Colinear Relationship Between DNA and Proteins
+	-the mutations of a gene coding for an enzyme were mapped out for E. coli
+	-found that the location of the mutations corresponded to the altered amino acids in the protein sequence
+	-conclusion: the order of nucleotides in DNA specify the order of amino acids in proteins
+
+Central Dogma of Biology
+	DNA --> RNA --> Protein
+	
+	-RNA synthesized from DNA = transcription
+	-protein synthesized from RNA = translation
+
+Discovery: Triplet Code
+	-scientists studied T4 bacteriophages with mutations in their rII gene
+	-they found that phages with 1 or 2 nucleotides deleted were mutants
+	-phages with 3 nucleotides deleted still had the wild type phenotype
+	-conclusion: genes are read in groups of 3 nucleotides, and altering that gene by only 1 or 2 nucleotides will alter the reading frame of the entire gene
+
+Discovery: Genetic Code
+	-scientists put mRNA molecules in test tubes filled with ribosomes, tRNA molecules, amino acids, enzymes, etc
+	-the mRNA molecules had specific sequences (like a poly-U strand)
+	-conclusion: the resulting chain will be of the same amino acid, which corresponds to that specific mRNA codon
+
+Discovery: Viral Reverse Transcription
+	1960s
+	-some viruses contain RNA instead of DNA as their genetic material
+	-scientists found that RNA tumor viruses (which cause cancer in their hosts) synthesize DNA from RNA, a reversal of the central dogma
+	-reverse transcription is also responsible for 40% of the human genome
+
+Technique: Restriction Endonucleases
+	-these are enzymes that cleave DNA at specific sequences
+	-first identified in bacteria
+	-the fragments of DNA produced by the cleaving enzymes can be separated by according to size in gel electrophoresis
+
+Technique: Gel Electrophoresis
+	-when molecules are separated based on the rates at which they migrate in an electric field
+	-smaller molecules will move at a faster rate through the gel to the positive electrode (nucleic acids are negatively charged)
+
+Technique: DNA Recombination
+	-DNA fragments of one organism can be inserted into the DNA molecule (vector) of a host cell
+	-this is done by cleaving the target and host DNA molecules with an enzyme and allowing them to pair by corresponding base pairs
+	-the vector must be capable of independent replication in the host cell (such as plasmids in bacteria)
+	-as the host replicates, so will the plasmid containing those target DNA fragments
+	-this is a version of molecular cloning
+
+Technique: DNA Sequencing
+	1977
+	-DNA is fragmented by introducing chain-terminating dideoxynucleotides, which do not have a 3' hydroxyl group for the addition of another nucleotide
+	-thus, DNA synthesis stops where these dideoxynucleotides are added
+	-the dideoxynucleotides are labeled with fluorescent dyes
+	-each fragment of DNA is separated using gel electrophoresis
+	-when the DNA strands pass through the gel, they also pass through a laser beam that excites their fluorescent labels
+	-the light emitted by this is then detected by a computer and entire genomes can be sequenced
+
+Technique: Polymerase Chain Reaction
+	1988
+	-a DNA molecule is heated so that both strands separate
+	-primers that bind to specific regions of the DNA and replicate those regions are added
+	-the primers create complimentary strands, giving you 2 new DNA molecules from the parent DNA molecule
+	-as the process continues, the number of DNA molecules increases exponentially
+	-knowing the primers and their specific regions allows scientists to selectively amplify a template of DNA from the DNA of an entire cell
+
+Technique: Nucleic Acid Hybridization
+	-at high temperatures, DNA will denature and the 2 strands will separate
+	-when incubated at a lower temp, the 2 strands can come back together with complimentary base pairing
+	-hybrids of DNA and RNA can also be created using this method
+
+Technique: Southern Blotting
+	-the DNA is digested with a restriction endonucleases
+	-the fragments of DNA are separated by gel electrophoresis
+	-a filter is laid on top of the electrophoresis gel and the DNA fragments are blotted onto the filter
+	-the filter is incubated so that the complimentary strands come together
+	-a probe provides an image of the DNA molecules
+
+Technique: Northern Blotting
+	-same method as Southern blotting, but with RNA molecules
+	-often used to determine if specific mRNA molecules are in certain types of cells
+
+Technique: Recombinant DNA Libraries
+	-DNA fragments are cloned in a bacteriophage gamma vector
+	-the DNA fragments are then inserted into phages
+	-the phages infect some bacteria and a filter is placed on top of the culture
+	-some of the phages are transferred to the filter
+	-a probe is used to identify the phage with the desired gene and the phage is isolated from the culture plate
+
+Technique: In Situ Hybridization
+	-detect DNA or RNA in chromosomes or intact cells, instead of cell extracts
+	-fluorescent probes label each chromosome a different color
+	-the chromosomal regions containing the specific gene of interest
+
+Technique: Antibody Probing
+	-antibodies (immune system proteins that react against antigens) are used as probes for protein molecules
+	-each antibody recognizes a unique antigen, and each antibody is produced by a specific type of B lymphocytes
+	-a culture of B lymphocytes can be cloned so that, when the antigen is introduced, several of the same antibody will be produced
+	-intact cells may also be used to immunize an animal because the antibodies will be created to react with proteins made by those cells
+	-those antibodies can then be used to identify proteins expressed by that cell
+
+Technique: Immunoblotting (Western Blotting)
+	-proteins in cell extracts are separated using SDS-polyacrylamide gel electrophoresis
+	-this means that they are dissolved in a solution containing a negatively charged detergent called SDS
+	-each protein binds several detergent molecules, denature, and become negatively charged
+	-all the protein migrate toward the positive electrode
+	-the separated proteins are then transferred to a filter, which reacts with antibodies adjacent the protein of interest
+	-the antibody that binds the filter can be detected in order to identify the protein against which the antibody is targeted
+
+Technique: Gene Transfer (Transfection)
+	-when cloned DNA (done using plasmid) is introduced to an eukaryotic organism
+	-this can be done by microinjection to the nucleus, coprecipitation of DNA with calcium phosphate to form small particles that will be taken up by cells, incorporation of DNA with vesicles that fuse with the PM, or exposure of cells to electric pulse that opens pores in PM to allow DNA to pass
+	-the cell will transport the DNA to the nucleus, where it will be transcribed (transient expression)
+	-in 1% of cells, the inserted DNA will be integrated into the cell's genome and transferred to future generations
+
+Technique: Transgenic Lab Animals
+	-instead of introducing cloned DNA to cultured cells, it can be introduced to multicellular organisms
+	-for ex, clones DNA can be microinjected directly into the nucleus of a fertilized egg of a mouse
+	-injected eggs are transferred to foster mothers
+	-in 10% of mice, the DNA will become integrated in the genome and be present in all of the cells of the organism
+
+Technique: Embryonic Stem Cells
+	-can be established in culture from mouse embryos and then reintroduced into early embryos and give rise to cells in all tissues of the mouse
+	-cloned DNA can be introduced to the ES cells in culture
+	-then stably transformed cells can be reintroduced to the mouse embryos
+
+Technique: In Vitro Mutagenesis
+	-specific alterations are made to cloned DNA using in vitro mutagenesis procedures
+	-these alterations include the deletion, insertion, or change in a single nucleotide
+	-an oligonucleotide with desired base alteration is used to prime DNA synthesis
+	-yields both starting and mutant plasmids
+
+Technique: Homologous Recombination (Knockout)
+	-with in vitro mutagenesis, the normal copies of the gene present in the organism will often override the introduced mutation, so it's impossible to tell what the cloned DNA's effect is on the organism
+	-in this case, the normal gene function must be inhibited
+	-the cloned gene will replace the normal allele so that the mutations introduced in vitro become incorporated in the chromosomal copy of the gene
+
+Technique: CRISPR/Cas System
+	2013
+	-this involves CRISPR RNA molecules that can recognize specific sequences of bases within a desired gene
+	-Cas proteins can then cleave the targeted DNA
+	-plasmids expressing Cas9 nuclease and a guide RNA are introduced to a cell
+	-if the Cas9 protein cleaves both strands, then non-homologous ends will join and the DNA will be mutated
+	-if the Cas9 protein cleaves one strand and a mutated copy of the gene is introduced, then the mutated copy will replace the original strand
+
+Technique: Antisense Nucleic Acids
+	-the antisense is the DNA or RNA strand that is complementary to the mRNA/gene of interest
+	-the antisense can hybridize with the mRNA and prevent it from translating into a protein
+	-leads to eventual mRNA degradation
+
+Technique: RNA Interference (RNAi)
+	1998
+	-double-stranded RNA is injected and inhibits expression of a gene with a complementary mRNA sequence
+	-when introduced, the RNAs are cleaved into short double-stranded molecules by enzyme Dicer
+	-the fragments associate with a complex of proteins called RNA-induced silencing complex (RISC)
+	-in the complex, the 2 strands of RNA separate and the strand that is complementary to the mRNA binds
+	-the mRNA is then cleaved by a RISC protein multiple times, until it is degraded
+
+Number of Genes in Human Genome
+	21,000
+	3x10^9 base pairs
+	-some organisms, like an apple, have many more genes than humans, indicating that complexity and gene number are unrelated
+
+Sequenced Mammalian Genomes
+	human, platypus, opossum, mouse, rat, dog, rhesus macaque, and chimpanzee
+
+Technique: Next Generation Sequencing
+	-a faster and cheaper way to sequence an organism
+	-DNA is fragmented and adapter sequences (primers) are added to the ends of each fragment
+	-the fragments are anchored to a solid surface
+	-each fragment is amplified using polymerase chain reaction (PCR, ch4) to form millions of clusters of molecules
+	-4 color-labeled nucleotides, polymerase, and a universal primer are added
+	-a laser detects the colored nucleotides
+	-the sequences derived from the collection of overlapping fragments creates a genome sequence
+
+Technique: DNA Microarrays
+	-mRNA is extracted from cancer cells and normal cells
+	-cDNA probes are then synthesized from the mRNA strands by reverse transcription
+	-the cDNAs are labeled with fluorescent dyes
+	-cDNA is then hybridized to a DNA microarray containing oligonucleotides corresponding to 20,000 human genes
+	-a laser scanner analyzes the extent of transcription by the intensity of fluorescence at each spot on the array
+	-the more the oligonucleotides hybridized with the corresponding cDNA, the more genes expressed
+
+Technique: RNA-Seq
+	-mRNA is transcribed into cDNA
+	-the cDNA is subject to next generation sequencing
+	-this gives you all of the mRNA sequences in the cell (more so than with the microarray)
+
+Proteomics
+	identifying and quantifying all of the proteins expressed in a given cell
+
+Number of Different Types of Proteins in Humans
+	100,000
+
+Technique: 2 Dimensional Gel Electrophoresis
+	-the proteins are put in a tube with pH gradient running from end to end
+	-each protein migrates according to charge until it reaches a pH at which the protein's charge is neutralized (based on the protein's content of acidic and basic amino acids)
+	-the proteins are then subjected to electrophoresis in a 2nd dimension and separate according to size
+
+Technique: Mass Spectrometry of Proteins
+	-proteins are digested with a protease (usually trypsin) and cleaved into smaller fragments
+	-the proteins are ionized and then pass through a mass spectrometer, which measures mass-to-charge ratio of each molecule
+	-the mass spectra of known proteins on record can be compared to the mass spectrum obtained experimentally
+
+Technique: Tandem Mass Spectrometry of Proteins
+	-some proteins from the mass spectrometer are selected to go into a "collision cell"
+	-in this cell, the proteins are degraded by random breakage of peptide bonds
+	-the products from the degradation are then passed through a second mass spectrometer
+	-each amino acid has a unique weight and this process allows scientists to deduce the amino acid sequence of the protein
+	-phosphorylation and other protein modifications can also be identified bc they change the weight of the protein
+
+Technique: Immunoprecipitation
+	-a cell extract is incubated with an antibody
+	-the antibody then binds to its antigenic target protein
+	-the resulting antigen-antibody complexes can be isolated
+	-if the extract was kept in the right conditions, then the antigen protein should also be associated with the other proteins its normally associated with inside the cell
+	-the immunoprecipitated protein complexes are analyzed with mass spectrometry to identify each piece, and we can then identify which proteins interact in a natural setting
+
+Technique: Yeast Two-Hybrid System
+	-2 different cDNAs (maybe from human cells) are joined to proteins that stimulate expression of a target gene in yeast
+	-the recombinant cDNAs are introduced into a yeast cell
+	-if the 2 human proteins interact with each other, the will bring the 2 domains of the yeast protein together
+	-thus, expression of the target gene in yeast will only occur if the human proteins interact naturally
+
+Eukaryotic Genomes
+	-a record of the order of DNA bases in an organism
+	-includes sequences that code for proteins and do not code for proteins
+	-noncoding sequences are responsible for regulating gene expression
+	-they also expand the coding potential by allowing genes to be expressed in alternate ways
+	-genome size does not correlate with organism complexity
+
+Gene
+	-a segment of DNA that is expressed to yield a functional product (either RNA or a polypeptide)
+	-includes both exons and introns
+
+Exons
+	coding sequences of a gene
+
+
+
+NONCODING SEQUENCES OF GENOME
+	...
+
+Introns
+	-noncoding sequences of a gene
+	-usually spliced out so that only exons are included in the RNA
+	-largest percentage of the average human gene
+	-frequency of introns increases with genomic size/complexity
+
+Nested Genes
+	-genes that are located within the intron of a larger gene
+	-one of the cases in which an intron actually codes for something
+
+Regulatory Sequences
+	-introns that are responsible to regulating gene expression in eukaryotes
+	-since all cells of an organism contain the same DNA, regulation of gene expression in each cell is responsible for cell differentiation (i.e., the difference between a neuron and muscle cell)
+	-some sequences can also regulate splicing of RNAs to create functional mRNAs
+
+Alternative Splicing
+	-introns allow the exons of genes to be joined in different combinations
+	-therefore, one gene can code for multiple types of proteins
+
+ENCODE Project
+	2003
+	-launched to determine all of the functional elements of the human genome
+	-based on the assumption that not all noncoding sequences were nonfunctional and had other important roles
+	-results have determined that most of our genome is transcribed, but that accounts for more than the protein coding portion
+	-therefore, noncoding sequences produce noncoding RNA, which has several functions
+
+microRNAs (miRNAs)
+	-short RNAs that are noncoding
+	-block the translation and promote degradation of complementary mRNAs
+	-start out as longer RNAs that are cleaved by nucleases Drosha and Dicer
+
+Long Noncoding RNAs (lncRNAs)
+	-longer noncoding RNAs that regulate gene expression in eukaryotes
+	-for example, Xist silences the genes on one of the X chromosomes in a female so that females and males express the same number of X-chromsome genes
+
+Simple-Sequence Repeats
+	-clustered tandem repeats of up to 1000 copies of a short sequence (up to 500 nucleotides)
+	-not transcribed and do not convey functional genetic information
+
+Retrotransposons
+	-sequences that move through genome by reverse transcription
+	-their movement within the genome can be beneficial in the case that a regulatory sequence is moved to another location, leading to evolutionary changes in gene expression
+	-leads to the formation of new gene s
+	-increases genetic diversity
+
+Short/Long Interspersed Elements (SINEs/LINEs)
+	-scattered throughout the entire genome (not clustered)
+	-move to different sites in the genome
+	-an RNA copy will be converted to DNA by reverse transcriptase
+	-the new DNA copy is integrated at a new site in the genome
+	-their movement within the genome causes mutations that are generally bad, including those causing hemophilia, CF, et.
+
+Retrovirus-Like Elements
+	-type of interspersed repetitive sequence
+	-move within genome using reverse transcription
+
+DNA Transposons
+	-type of interspersed repetitive sequence
+	-move within genome by being copies and reinserted as DNA sequences
+
+Gene Families
+	-arose due to duplication of an ancestral gene
+	-ex: the global genes code for alpha and beta subunits of hemoglobin and fetal hemoglobin
+
+Pseudogenes
+	-genes that have been inactivated by mutations during duplication
+
+Processed Pseudogenes
+	-inactive genes produced by reverse transcription
+	-can accumulate disablements over the course of evolution
+
+
+
+CHROMATIN
+	-complex of DNA, histone proteins, and other chromosomal proteins involved in DNA replication and gene expression
+	-structural unit = nucleosome
+
+Histone Proteins
+	-protein containing amino acids that facilitate binding to a negatively charged DNA molecule
+	-5 types: H1, H2A, H2B, H3, and H4
+
+Nucleosome
+	-nucleosomes are organized in intervals of 200 base pairs
+	-one unit contains a nonhistone protein, a nucleosome core particle, and another nonhistone protein
+
+Nucleosome Core Particle
+	-the "bead-like" portion of the nucleosome
+	-147 base pairs of DNA wrapped around a histone core containing 2 molecules each of H2A, H2B, H3, and H4
+	-one molecule of H1 is bound to the DNA as it begins its wrap around the core particle
+
+Chromatosome
+	166 base pairs of DNA wrapped around a histone core particle and held in place by H1
+
+Chromatin Condensation
+	-the chromatin is further condensed by coiling into 30 nm fibers
+	-H1 proteins interact here
+
+Euchromatin
+	relatively decondensed chromatin
+
+Heterochromatin
+	-highly condensed chromatin
+	-transcriptionally inactive
+
+Centromere
+	-region of chromosome
+	-responsible for ensuring the correct distribution of duplicated chromosomes to daughter cells during mitosis
+	-holds 2 sister chromatids together
+	-microtubules attach to the centromere and pull the chromatids to opposite ends of the cell during anaphase
+
+Kinetochore
+	-structure of proteins at the centromere where the microtubules attach
+	-these proteins act as motors to move the chromosomes along the spindle fibers
+
+
+
+CENP-A
+	a histone protein that replaced H3 in the chromatin found at the centromere
+
+Epigenetic Inheritance
+	-the transfer of information from parent to offspring that is not based on a DNA sequence
+	-ex: the CENP-A chromatin structure (unique to all of the chromatin) allows the centromere to be stably maintained at cell division even though there are no specific centromeric DNA sequences
+
+Telomere
+	-sequence at the end of a chromosome
+	-broken chromosomes are unstable, which indicates that there needs to be a specific terminating sequence in normal chromosomes
+	-often consists of hundreds of repetitive sequences that protect the chromosome termini from degradation
+	-telomeres cannot be replicated by DNA polymerase unless in the presence of telomerase
+	-cancer cells have long telomeres, which allows them to maintain their termini through indefinite divisions
+	-the short length of telomeres is also associated with aging bc they get shorter and eventually prevent further DNA replication and cell divisions
+
+
+
+DNA REPLICATION
+	...
+
+DNA Polymerase
+	-alpha, delta, epsilon, and lambda types in eukaryotes
+	-synthesize DNA in the 5' --> 3' direction
+	-can only add dNTPs to a primer strand that is hydrogen bonded to the template strand (the one that is read and copied)
+
+Replication Forks
+	-the formation of DNA synthesis
+	-at each fork, the parental strands are separated and used as templates for the synthesis of new daughter strands
+	-the parental strands run antiparallel, which means that one strand would need to be synthesized in the opposite direction (3' --> 5')
+	-this is not possible, so that strand is synthesized in segments
+
+Okazaki Fragments
+	-one strand needs to be synthesized in discontinuous pieces
+	-the small pieces of newly synthesized DNA are the Okazaki fragments
+	-they are synthesized in the opposite direction as the replication fork
+	-this is because, as the parental strands are separated, one strand is at the 5' end and the other is at the 3' end
+	-DNA must be synthesized 5' --> 3', so as the 5' strand is synthesized in one direction, the other strand is in the opposite direction is pieces
+
+DNA Ligase
+	enzyme that joins Okazaki fragments to form an intact DNA strand
+
+Leading Strand
+	the DNA strand that can be synthesized continuously (without Okazaki fragments)
+
+Lagging Strand
+	DNA strand that must be synthesized in discontinuous pieces (called Okazaki fragments)
+
+RNA Primers
+	-the lagging strand is synthesized with Okazaki fragments
+	-these fragments are initiated by RNA primers
+	-primase syntehsizes short fragments of RNA that are complementary to the parental strand template of the lagging strand
+	-the fragments are synthesized as extensions of these RNA pieces
+	-in prokaryotes DNA Polymerase I acts as an exonuclease by removing ribonucleotides from the Okazaki fragments
+	-in eukaryotes, RNase H degrades the RNA, DNA Polymerase Delta fills the gaps, and DNA ligase joins the fragments
+	-final result: a lagging strand that is a continuous strand of only DNA
+
+
+
+PROKARYOTIC POLYMERASES
+	...
+
+Polymerase I
+	-repairs damaged DNA
+	-removes RNA primers
+
+Polymerase III
+	synthesizes the leading and lagging strands
+
+
+
+EUKARYOTIC POLYERMASES
+	...
+
+Polymerase Alpha
+	synthesizes the DNA-RNA fragments of the lagging strand with primase
+
+Polymerase Delta
+	synthesizes the DNA lagging strand after RNA fragments are removed
+
+Polymerase Epsilon
+	synthesizes the leading strand
+
+Polymerase Lambda
+	responsible for DNA replication in the mitochondria
+
+
+
+DNA SYNTHESIS PROTEIN COMPLEX
+	...
+
+Sliding-Clamp Proteins
+	-doughnut-shaped proteins
+	-load polymerase onto the primer and maintain its stable association with the template
+
+Clamp-Loading Proteins
+	-loads the sliding-clamp proteins onto the primer and template strands
+	-releases the sliding-clamp protein and then loads the DNA polymerase onto the primer and template strands
+	-use energy from ATP to open the sliding clamps
+
+Helicases
+	-enzymes that catalyze the unwinding of parental DNA ahead of the replication fork
+	-use energy from ATP
+
+Single-Stranded DNA-Binding Proteins
+	stabilize the unwound template DNA by keeping it in a single-stranded state
+
+Topoisomerases
+	-enzymes that catalyze the reversible breakage and rejoining of DNA strands
+	-necessary because as the parental DNA strands are separated from each other they begin to rotate in the opposite direction and tangle ahead of the replication fork
+
+Type I Topoisomerases
+	-break one strand of DNA
+	-break acts as a swivel to allow the template strands to rotate freely around each other
+
+Type II Topoisomerases
+	-introduce simultaneous breaks in both strands
+	-breaks act as swivels to allow the template strands to rotate freely around each other
+	-unravel newly replicated DNA molecules that become intertwined
+	-involved in chromosome condensation
+	-required for separation of sister chromatids at mitosis
+
+DNA Replication Accuracy
+	-DNA Polymerase conformationally changes when the correct dNTP is matched up with the template strand, leading to the incorporation of the nucleotide in the DNA
+	-polymerases can also have exonucleases that read the DNA from 3' --> 5' and take out mismatched bases
+
+Origins of Replication
+	-sites at which replication begins in prokaryotes and eukaryotes
+	-where proteins for DNA replication bind
+	-many (sometimes 1000s) are needed in large eukaryotic genomes to get DNA replication done in a reasonable amount of time
+
+
+
+STEPS OF DNA REPLICATION
+	...
+
+Step 1
+	Initiator Protein binds to specific DNA sequences in the origin of replication
+
+Step 2
+	initiator protein unwinds the original DNA and recruits other proteins involved in DNA synthesis
+
+Step 3
+	Helicase and Single-Stranded DNA-Binding Proteins continue unwinding DNA and exposing the template DNA strand
+
+Step 4
+	Primase initiates the synthesis of the leading strand
+
+Autonomously Replicating Sequences (ARCs)
+	-the origins of replication in yeast
+	-not as clearly defined in other eukaryotes
+
+Origin Replication Complex (ORC)
+	-6-subunit protein complex that binds to the origin of replication
+	-found in all eukaryotes
+
+Telomerase
+	-enzyme that catalyzes the synthesis of telomeres in the absence a DNA template
+	-the 5' ends of DNA are not replicated by DNA Polymerase because the replicating protein complex covers it as it moves from 5' --> 3'
+	-acts as a reverse transcriptase (synthesizes DNA from an RNA template
+	-carries its own template RNA that is complementary to the telomere sequence
+	-somatic cells do not have enough of this enzyme, which causes telomeres to shorten over many replications (leading to cell death)
+	-elevated telomerase levels contributes to cancer development
+
+Deamination
+	damage to DNA caused by loss of amino acid groups
+
+Depurination
+	damage to DNA caused by loss of purine bases
+
+UV Damage
+	-solar UV irradiation causes skin cancer in humans
+	-UV causes the formation of pyrimidine dimers
+	-2 pyrimidines are joined together by a cyclobutane ring structure
+	-the dimers distort the DNA chain and block transcription or replication past the site of damage
+
+Photoreactivation
+	-mechanism of repairing UV damage
+	-energy derived from visible light is used to break the cyclobutane ring
+	-the original pyrimidine bases remain in the DNA in their normal state
+	-humans do not have the ability to undergo photoreactivation
+
+Alkylation
+	-when a methyl or ethyl group is added to various positions on the DNA bases
+	-methylation of the O^6 position of guanine
+	-O^6 - methylguanine erroneously pairs with thymine instead of cytosine
+	-an enzyme can transfer the methyl group from methylguanine to a cysteine residue in its active site
+	-the original guanine is restored
+
+Carcinogens
+	react with DNA bases, resulting in the addition of large bulky chemical groups to the DNA molecule
+
+Base-Excision Repair
+	-single damaged bases are recognized and removed from the DNA molecule
+	-for example, sometimes DNA may erroneously contain uracil
+	-DNA glucosylase cleaves the bond between uracil and deoxyribose
+	-this creates an AP site (a site of a sugar lacking a base)
+	-AP endonuclease cleaves the adjacent AP site
+	-DNA polymerase and ligase fill in the single-base gap
+
+Nucleotide-Excision Repair
+	-helpful for removing damages that affect more than 1 base (like dimers or bulky groups)
+	-helicase unwinds the DNA at the site of damage
+	-the damage is then removed as part of an oligonucleotide
+	-helicase removes the oligonucleotide
+	-DNA Polymerase and Ligase fill the gap
+
+
+
+EXCISION REPAIR IN MAMMALIAN CELLS
+	...
+
+Step 1
+	XPC (repair gene) recognizes the damage
+
+Step 2
+	XPA, replication protein A (RPA), and transcription factor TFIIH binds (initiates transcription)
+
+Step 3
+	helicase subunits of TFIIH called XPB and XPD unwind the DNA around the site of damage
+
+Step 4
+	-XPG protein and a heterodimer of XPF and ERCC1 (repair protein) are recruited
+	-they act together to cleave the damaged DNA
+
+Step 5
+	-the oligonucleotide containing the damage is removed
+	-the gap is filled by DNA Polymerase and delta
+	-Ligase seals the gap
+
+Transcription-Coupled Repair
+	when the damaged is repaired in actively transcribed genes
+
+
+
+TRANSCRIPTION-COUPLED REPAIR IN MAMMALIAN CELLS
+	...
+
+Step 1
+	RNA Polymerase is stalled by DNA damage in the transcribed strand of DNA
+
+Step 2
+	CSB protein recognizes the stalled polymerase at the site of damage
+
+Step 3
+	CSB recruits CSA protein, XPA protein, RPA protein, and TFIIH transcription factor to the site of damage
+
+Step 4
+	XPB and XPD subunits of TFIIH unwind the DNA
+
+Step 5
+	-XPG protein and a heterodimer of XPF and ERCC1 (repair protein) are recruited
+	-they act together to cleave the damaged DNA
+
+Step 6
+	-the oligonucleotide containing the damage is removed
+	-the gap is filled by DNA Polymerase and delta
+	-Ligase seals the gap
+
+Mismatch Repair
+	-the mismatched pairs that are missed by the proofreading of DNA Polymerase are fixed with this backup mechanism
+	-enzymes scan newly replicated DNA and excise any mismatched base
+
+MISMATCHED REPAIR IN E. coli
+	...
+
+Step 1
+	newly replicated DNA is distinguished from template DNA because it has not been methylated yet
+
+Step 2
+	the protein MutS recognizes the mismatch and forms a complex with MutL and MutH proteins
+
+Step 3
+	MutH cleaves the new DNA strand at the GATC sequence
+
+Step 4
+	MutL and MutS act together with an exonuclease and helicase to excise the DNA between the strand break and mismatch
+
+
+
+MISMATCHED REPAIR IN MAMMALIAN CELLS
+	...
+
+Step 5
+	DNA Polymerase and Ligase fill in the gap
+
+Step 1
+	newly replicated DNA is distinguished from template DNA by single-strand breaks
+
+Step 2
+	eukaryotic homologs of MutS and MutL (called MSH and MLH) bind to the mismatched base and excise the DNA between the mismatch and the break in the DNA strand
+
+Step 3
+	Replication continues
+
+Translesion DNA Synthesis
+	-the other systems of repair happen before the DNA undergoes replication
+	-if those systems fail, then there are special polymerases that can replicate across a site of damage
+	-the damage is bypassed at the fork and repaired once replication is complete
+
+Double-Strand Breaks
+	-when both strands have breaks in continuity
+	-AKA, there's a gap in the middle of the DNA molecule
+	-when DNA Polymerase encounters a nick at the replication fork
+	-also caused by X-rays
+
+Recombinational Repair
+	-mechanism that repairs double-strand breaks
+	-involves simply rejoining the boreens ends of the DNA molecule
+	-can lead to a loss of bases around the site of damage
+
+Homologous Recombination
+	-another mechanism for repairing double-strand breaks
+	-using an undamaged chromosome to restore the normal DNA sequence
+	-does not alter the arrangement of genes within the genome of the organism
+
+
+
+HOMOLOGOUS RECOMBINATION
+	...
+
+Step 1
+	-nucleases digest both strands of DNA at the double-strand break in the 5' --> 3' direction
+	-since the strands run antiparallel, one strand is digested to the right and the other is digested to the left of the break
+	-leaves overhanging edges
+
+Step 2
+	the overhanging 3' ends invade the other parental molecule that has not been damaged by homologous base pairing
+
+Step 3
+	the gaps are then filled by repair synthesis and sealed by Ligase
+
+Step 4
+	the result is a crossed-stranded intermediate that is cleaved and ligated to yield 2 recombinant parental DNA molecules
+
+RecA/Rad51
+	-proteins in E.coli and eukaryotes respectively that bind to the double-stranded DNA molecule
+	-form a complex between the 2 DNAs
+	-catalyze the exchange of strands between homologous sequences
+
+Site-Specific Recombination
+	-homologous recombination between specific DNA sequences
+	-ex: mating type switching of haploid yeast
+	-the recombination happens between the MAT, HMRa, and HMLalpha loci on the 3rd chromosome
+	-MAT contains either MATa or MATalpha alleles, depending on the mating type of the individual
+	-HMRa locus contains MATa allele and HMLalpha contains MATalpha alelle
+	-endonuclease HO cleaves a double-strand break at the MAT locus
+	-the gap is filled by copying either the HMRa or HMLa allele
+	-both HMRa and HMLalpha remain in the same state
+
+Gene Amplification
+	-increases the number of copies of a gene within a cell
+	-multiple rounds of replication lead to multiple copes of a certain region
+	-results in increased gene expression
+	-ex: amplification of ribosomal RNA genes is necessary for eggs (oocytes) because they are so large and need to make a lot of proteins
+
